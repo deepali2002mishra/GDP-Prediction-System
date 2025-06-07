@@ -1,0 +1,16 @@
+================================================================================
+AGRICULTURAL ANALYSIS FOR ANDHRA PRADESH (10-YEAR FORECAST)
+================================================================================
+
+🏆 TOP CROP: TOBACCO
+📍 Current Production: 2,497.66 tonnes
+🔮 Forecasted Production (10yr avg): 2,450.10 tonnes
+📈 10-Year Growth Rate: -1.90%
+💰 Average Price: ₹6,227.41
+🌱 Soil Score: 3/5
+🏆 10-Year Investment Score: 18,901,250.24
+
+TOP 3 CROPS IN THIS STATE:
+ - Tobacco: Score=18,901,250.24, Growth=-1.90%, Price=₹6,227.41
+ - Rice: Score=12,687,384.14, Growth=0.24%, Price=₹6,155.68
+ - Chillies: Score=10,497,047.92, Growth=0.48%, Price=₹5,488.34

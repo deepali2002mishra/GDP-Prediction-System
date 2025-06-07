@@ -1,0 +1,16 @@
+================================================================================
+AGRICULTURAL ANALYSIS FOR GUJARAT (10-YEAR FORECAST)
+================================================================================
+
+🏆 TOP CROP: GROUNDNUT
+📍 Current Production: 2,113.40 tonnes
+🔮 Forecasted Production (10yr avg): 2,103.06 tonnes
+📈 10-Year Growth Rate: -0.49%
+💰 Average Price: ₹5,095.47
+🌱 Soil Score: 3/5
+🏆 10-Year Investment Score: 12,571,724.35
+
+TOP 3 CROPS IN THIS STATE:
+ - Groundnut: Score=12,571,724.35, Growth=-0.49%, Price=₹5,095.47
+ - Cotton: Score=9,421,459.78, Growth=-0.31%, Price=₹4,718.69
+ - Cumin: Score=5,829,601.83, Growth=-0.38%, Price=₹5,858.73

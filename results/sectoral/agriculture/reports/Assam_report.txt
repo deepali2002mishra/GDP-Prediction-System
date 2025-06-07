@@ -1,0 +1,16 @@
+================================================================================
+AGRICULTURAL ANALYSIS FOR ASSAM (10-YEAR FORECAST)
+================================================================================
+
+🏆 TOP CROP: TEA
+📍 Current Production: 718.21 tonnes
+🔮 Forecasted Production (10yr avg): 727.04 tonnes
+📈 10-Year Growth Rate: 1.23%
+💰 Average Price: ₹5,496.75
+🌱 Soil Score: 4/5
+🏆 10-Year Investment Score: 5,523,709.52
+
+TOP 3 CROPS IN THIS STATE:
+ - Tea: Score=5,523,709.52, Growth=1.23%, Price=₹5,496.75
+ - Mustard: Score=5,405,341.57, Growth=-2.32%, Price=₹5,500.22
+ - Rice: Score=1,490,829.80, Growth=-0.65%, Price=₹5,012.11

@@ -1,0 +1,11 @@
+📊 Directional Accuracy Report (2020–2024)
+
+✅ Accuracy : 1.000
+✅ Precision: 1.000
+✅ Recall   : 1.000
+✅ F1 Score : 1.000
+
+Confusion Matrix [Actual vs Predicted]:
+[[3, 0], [0, 2]]
+
+Data Points Used: 5

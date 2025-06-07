@@ -1,0 +1,16 @@
+================================================================================
+AGRICULTURAL ANALYSIS FOR HARYANA (10-YEAR FORECAST)
+================================================================================
+
+🏆 TOP CROP: RICE
+📍 Current Production: 4,153.28 tonnes
+🔮 Forecasted Production (10yr avg): 4,166.76 tonnes
+📈 10-Year Growth Rate: 0.32%
+💰 Average Price: ₹5,105.21
+🌱 Soil Score: 3/5
+🏆 10-Year Investment Score: 26,431,215.95
+
+TOP 3 CROPS IN THIS STATE:
+ - Rice: Score=26,431,215.95, Growth=0.32%, Price=₹5,105.21
+ - Barley: Score=11,396,614.83, Growth=0.46%, Price=₹5,792.53
+ - Wheat: Score=8,745,686.25, Growth=-0.45%, Price=₹5,696.31

@@ -1,0 +1,16 @@
+================================================================================
+AGRICULTURAL ANALYSIS FOR MADHYA PRADESH (10-YEAR FORECAST)
+================================================================================
+
+🏆 TOP CROP: PULSES
+📍 Current Production: 3,758.96 tonnes
+🔮 Forecasted Production (10yr avg): 3,714.64 tonnes
+📈 10-Year Growth Rate: -1.18%
+💰 Average Price: ₹5,643.73
+🌱 Soil Score: 4/5
+🏆 10-Year Investment Score: 28,877,835.55
+
+TOP 3 CROPS IN THIS STATE:
+ - Pulses: Score=28,877,835.55, Growth=-1.18%, Price=₹5,643.73
+ - Soybean: Score=15,231,026.36, Growth=0.33%, Price=₹5,387.82
+ - Wheat: Score=3,168,848.18, Growth=-0.08%, Price=₹5,177.66

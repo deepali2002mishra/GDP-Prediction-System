@@ -1,0 +1,16 @@
+================================================================================
+AGRICULTURAL ANALYSIS FOR UTTAR PRADESH (10-YEAR FORECAST)
+================================================================================
+
+🏆 TOP CROP: RICE
+📍 Current Production: 2,486.02 tonnes
+🔮 Forecasted Production (10yr avg): 2,496.64 tonnes
+📈 10-Year Growth Rate: 0.43%
+💰 Average Price: ₹5,493.43
+🌱 Soil Score: 5/5
+🏆 10-Year Investment Score: 20,208,664.90
+
+TOP 3 CROPS IN THIS STATE:
+ - Rice: Score=20,208,664.90, Growth=0.43%, Price=₹5,493.43
+ - Sugarcane: Score=5,791,710.12, Growth=1.02%, Price=₹6,121.91
+ - Wheat: Score=5,341,144.46, Growth=0.28%, Price=₹5,444.38

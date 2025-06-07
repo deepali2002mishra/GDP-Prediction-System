@@ -1,0 +1,16 @@
+================================================================================
+AGRICULTURAL ANALYSIS FOR MAHARASHTRA (10-YEAR FORECAST)
+================================================================================
+
+🏆 TOP CROP: GRAPES
+📍 Current Production: 4,074.68 tonnes
+🔮 Forecasted Production (10yr avg): 4,082.38 tonnes
+📈 10-Year Growth Rate: 0.19%
+💰 Average Price: ₹5,121.55
+🌱 Soil Score: 4/5
+🏆 10-Year Investment Score: 27,286,646.97
+
+TOP 3 CROPS IN THIS STATE:
+ - Grapes: Score=27,286,646.97, Growth=0.19%, Price=₹5,121.55
+ - Cotton: Score=16,298,600.70, Growth=-1.88%, Price=₹4,349.61
+ - Sugarcane: Score=11,246,391.85, Growth=-0.02%, Price=₹5,850.31

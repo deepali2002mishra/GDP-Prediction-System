@@ -1,0 +1,16 @@
+================================================================================
+AGRICULTURAL ANALYSIS FOR WEST BENGAL (10-YEAR FORECAST)
+================================================================================
+
+🏆 TOP CROP: RICE
+📍 Current Production: 3,980.33 tonnes
+🔮 Forecasted Production (10yr avg): 3,945.38 tonnes
+📈 10-Year Growth Rate: -0.88%
+💰 Average Price: ₹6,005.78
+🌱 Soil Score: 4/5
+🏆 10-Year Investment Score: 33,040,880.12
+
+TOP 3 CROPS IN THIS STATE:
+ - Rice: Score=33,040,880.12, Growth=-0.88%, Price=₹6,005.78
+ - Jute: Score=27,000,067.30, Growth=1.14%, Price=₹6,227.39
+ - Tea: Score=16,168,344.13, Growth=1.01%, Price=₹5,462.45

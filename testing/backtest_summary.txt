@@ -1,0 +1,8 @@
+📈 Backtesting Summary: National GDP Forecast (2020–2024) – Custom Drift Weights
+
+✅ RMSE  : 0.848
+✅ MAE   : 0.720
+✅ MAPE  : 9.96%
+✅ R²    : 0.978
+
+Data Points Evaluated: 5

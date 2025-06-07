@@ -1,0 +1,11 @@
+📊 GDP Forecast Scenario Summary (2025–2030)
+
+✅ Reform Avg    : 7.88%
+✅ Baseline Avg  : 6.95%
+✅ Mixed Avg     : 7.34%
+✅ Crisis Avg    : 7.08%
+
+Assertions:
+✔ Reform > Baseline
+✔ Crisis < Mixed
+✔ All forecasts ∈ [4.0%, 10.0%]

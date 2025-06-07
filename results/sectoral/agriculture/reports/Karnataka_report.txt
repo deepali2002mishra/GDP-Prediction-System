@@ -1,0 +1,16 @@
+================================================================================
+AGRICULTURAL ANALYSIS FOR KARNATAKA (10-YEAR FORECAST)
+================================================================================
+
+🏆 TOP CROP: COFFEE
+📍 Current Production: 3,257.01 tonnes
+🔮 Forecasted Production (10yr avg): 3,245.34 tonnes
+📈 10-Year Growth Rate: -0.36%
+💰 Average Price: ₹5,757.97
+🌱 Soil Score: 3/5
+🏆 10-Year Investment Score: 23,403,986.53
+
+TOP 3 CROPS IN THIS STATE:
+ - Coffee: Score=23,403,986.53, Growth=-0.36%, Price=₹5,757.97
+ - Ragi: Score=13,333,422.47, Growth=0.19%, Price=₹5,553.59
+ - Maize: Score=3,967,397.38, Growth=0.02%, Price=₹5,164.39

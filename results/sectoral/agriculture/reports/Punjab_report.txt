@@ -1,0 +1,16 @@
+================================================================================
+AGRICULTURAL ANALYSIS FOR PUNJAB (10-YEAR FORECAST)
+================================================================================
+
+🏆 TOP CROP: WHEAT
+📍 Current Production: 3,972.84 tonnes
+🔮 Forecasted Production (10yr avg): 4,069.22 tonnes
+📈 10-Year Growth Rate: 2.43%
+💰 Average Price: ₹5,122.95
+🌱 Soil Score: 5/5
+🏆 10-Year Investment Score: 31,570,454.09
+
+TOP 3 CROPS IN THIS STATE:
+ - Wheat: Score=31,570,454.09, Growth=2.43%, Price=₹5,122.95
+ - Rice: Score=8,479,636.40, Growth=0.31%, Price=₹5,281.12
+ - Maize: Score=3,113,426.33, Growth=-0.78%, Price=₹5,916.02
