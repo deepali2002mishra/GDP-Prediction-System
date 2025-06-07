@@ -1,0 +1,970 @@
+State,Year,Annual Rainfall (mm),Soil Type,Soil pH Level,Organic Matter (%)
+Uttar Pradesh,1961,934.16,Red,5.89,1.05
+Uttar Pradesh,1962,2059.6,Laterite,7.56,3.02
+Uttar Pradesh,1963,1341.14,Red,7.59,3.27
+Uttar Pradesh,1964,635.07,Alluvial,5.73,0.84
+Uttar Pradesh,1965,1013.83,Black,6.11,3.38
+Uttar Pradesh,1966,2025.69,Black,6.24,0.61
+Uttar Pradesh,1967,2380.04,Saline,6.95,2.56
+Uttar Pradesh,1968,2466.66,Desert,7.62,0.98
+Uttar Pradesh,1969,1579.29,Alluvial,6.29,2.36
+Uttar Pradesh,1970,1265.36,Red,8.31,1.62
+Uttar Pradesh,1971,2105.6,Mountain,7.07,2.7
+Uttar Pradesh,1972,699.96,Black,8.29,2.28
+Uttar Pradesh,1973,2356.89,Desert,7.86,3.13
+Uttar Pradesh,1974,1300.87,Mountain,5.96,2.45
+Uttar Pradesh,1975,1362.69,Black,7.77,3.4
+Uttar Pradesh,1976,1859.94,Desert,6.1,2.87
+Uttar Pradesh,1977,1015.62,Desert,7.62,2.98
+Uttar Pradesh,1978,1306.61,Mountain,7.17,1.3
+Uttar Pradesh,1979,565.52,Desert,6.71,2.89
+Uttar Pradesh,1980,1147.73,Saline,5.63,0.86
+Uttar Pradesh,1981,2365.03,Saline,7.18,1.67
+Uttar Pradesh,1982,1660.21,Alluvial,7.36,3.17
+Uttar Pradesh,1983,1219.81,Saline,5.55,2.04
+Uttar Pradesh,1984,705.05,Laterite,7.65,1.73
+Uttar Pradesh,1985,1879.16,Red,7.38,3.34
+Uttar Pradesh,1986,1443.84,Saline,6.43,1.95
+Uttar Pradesh,1987,2099.45,Saline,7.89,1.36
+Uttar Pradesh,1988,1428.68,Saline,6.08,2.68
+Uttar Pradesh,1989,2384.15,Red,6.56,2.15
+Uttar Pradesh,1990,2398.07,Desert,5.87,3.44
+Uttar Pradesh,1991,2287.55,Saline,6.64,3.42
+Uttar Pradesh,1992,1510.55,Laterite,8.14,2.43
+Uttar Pradesh,1993,1299.87,Desert,7.83,3.27
+Uttar Pradesh,1994,2209.13,Saline,6.42,1.96
+Uttar Pradesh,1995,1070.08,Black,7.28,2.82
+Uttar Pradesh,1996,1648.63,Laterite,7.52,1.09
+Uttar Pradesh,1997,1941.62,Alluvial,6.12,0.86
+Uttar Pradesh,1998,963.95,Laterite,7.38,1.61
+Uttar Pradesh,1999,407.86,Saline,7.37,2.49
+Uttar Pradesh,2000,584.39,Alluvial,7.02,1.84
+Uttar Pradesh,2001,2494.32,Alluvial,6.58,0.82
+Uttar Pradesh,2002,1269.03,Alluvial,5.97,0.96
+Uttar Pradesh,2003,1168.04,Alluvial,8.06,2.23
+Uttar Pradesh,2004,1020.77,Black,5.8,3.27
+Uttar Pradesh,2005,916.85,Black,7.27,1.61
+Uttar Pradesh,2006,630.91,Mountain,5.78,1.53
+Uttar Pradesh,2007,2382.78,Mountain,7.88,2.93
+Uttar Pradesh,2008,2481.47,Alluvial,7.26,1.26
+Uttar Pradesh,2009,570.29,Black,6.11,1.93
+Uttar Pradesh,2010,2187.51,Laterite,7.4,1.33
+Uttar Pradesh,2011,308.52,Saline,5.79,3.15
+Uttar Pradesh,2012,1367.26,Desert,6.94,2.55
+Uttar Pradesh,2013,1175.41,Alluvial,7.12,1.36
+Uttar Pradesh,2014,428.98,Alluvial,6.88,3.0
+Uttar Pradesh,2015,1123.68,Red,6.17,3.29
+Uttar Pradesh,2016,860.69,Desert,5.92,3.0
+Uttar Pradesh,2017,1817.33,Laterite,7.04,1.2
+Punjab,1961,2179.84,Red,6.51,1.1
+Punjab,1962,1477.75,Saline,6.7,2.4
+Punjab,1963,2325.31,Alluvial,8.15,3.02
+Punjab,1964,610.9,Saline,8.04,2.35
+Punjab,1965,2315.49,Black,6.4,3.48
+Punjab,1966,2207.43,Red,6.36,2.47
+Punjab,1967,416.65,Black,7.97,3.43
+Punjab,1968,1466.21,Black,7.34,0.75
+Punjab,1969,1407.56,Red,7.01,1.02
+Punjab,1970,820.61,Saline,7.98,2.85
+Punjab,1971,365.94,Black,6.29,1.71
+Punjab,1972,1364.4,Laterite,7.88,2.17
+Punjab,1973,870.5,Red,6.24,2.5
+Punjab,1974,635.26,Desert,7.11,2.83
+Punjab,1975,310.34,Black,8.31,1.51
+Punjab,1976,492.83,Saline,5.77,0.89
+Punjab,1977,1852.87,Alluvial,7.01,3.48
+Punjab,1978,2309.87,Saline,6.94,1.15
+Punjab,1979,1830.01,Desert,7.39,2.48
+Punjab,1980,1685.46,Desert,8.17,1.01
+Punjab,1981,477.07,Saline,8.13,1.03
+Punjab,1982,530.14,Red,7.29,2.59
+Punjab,1983,561.6,Red,6.25,0.81
+Punjab,1984,1279.82,Desert,6.72,0.95
+Punjab,1985,1307.81,Alluvial,7.3,3.16
+Punjab,1986,1222.15,Desert,5.5,1.03
+Punjab,1987,363.59,Saline,5.57,2.92
+Punjab,1988,2059.47,Black,6.24,1.94
+Punjab,1989,1337.8,Mountain,5.54,0.7
+Punjab,1990,1316.04,Laterite,6.96,2.03
+Punjab,1991,549.59,Saline,6.66,3.41
+Punjab,1992,1087.92,Mountain,5.54,0.76
+Punjab,1993,869.17,Black,6.84,1.94
+Punjab,1994,2343.01,Black,7.17,1.86
+Punjab,1995,1172.28,Desert,6.4,1.14
+Punjab,1996,1230.75,Red,6.43,2.97
+Punjab,1997,1324.87,Mountain,7.04,3.09
+Punjab,1998,1968.0,Mountain,6.24,0.97
+Punjab,1999,968.7,Mountain,7.07,0.63
+Punjab,2000,2098.56,Mountain,7.82,2.94
+Punjab,2001,630.3,Black,7.15,1.78
+Punjab,2002,1231.67,Red,5.86,3.21
+Punjab,2003,505.22,Laterite,7.63,2.23
+Punjab,2004,547.67,Desert,7.35,1.87
+Punjab,2005,1109.82,Saline,7.93,3.48
+Punjab,2006,1672.43,Laterite,7.53,1.43
+Punjab,2007,850.11,Alluvial,7.78,1.06
+Punjab,2008,2344.25,Desert,8.44,1.53
+Punjab,2009,1718.43,Desert,6.94,2.51
+Punjab,2010,970.68,Alluvial,6.52,0.85
+Punjab,2011,1079.9,Black,6.93,1.84
+Punjab,2012,1717.99,Laterite,7.79,2.02
+Punjab,2013,1488.57,Desert,6.87,3.04
+Punjab,2014,1607.51,Alluvial,5.72,2.95
+Punjab,2015,1839.27,Black,7.84,2.91
+Punjab,2016,1500.96,Alluvial,5.77,2.28
+Punjab,2017,2457.56,Red,5.55,2.03
+Haryana,1961,1276.11,Mountain,5.85,2.92
+Haryana,1962,2371.3,Saline,8.08,1.6
+Haryana,1963,785.86,Laterite,5.67,2.36
+Haryana,1964,483.76,Alluvial,6.49,2.09
+Haryana,1965,1908.42,Saline,7.88,2.82
+Haryana,1966,1852.61,Mountain,6.74,2.39
+Haryana,1967,682.12,Red,6.26,2.0
+Haryana,1968,1244.46,Red,5.69,1.26
+Haryana,1969,960.86,Saline,6.47,2.44
+Haryana,1970,373.01,Saline,5.54,3.28
+Haryana,1971,1519.91,Laterite,7.34,1.62
+Haryana,1972,430.72,Saline,7.99,3.21
+Haryana,1973,2386.08,Alluvial,6.88,2.88
+Haryana,1974,697.62,Black,6.62,0.8
+Haryana,1975,2471.37,Alluvial,6.8,1.64
+Haryana,1976,308.56,Desert,8.26,1.18
+Haryana,1977,2162.91,Mountain,5.84,1.54
+Haryana,1978,2023.77,Desert,8.13,0.92
+Haryana,1979,891.01,Laterite,5.84,2.77
+Haryana,1980,1223.62,Saline,6.33,1.23
+Haryana,1981,2326.28,Laterite,6.85,1.06
+Haryana,1982,418.94,Desert,6.73,3.35
+Haryana,1983,1936.92,Mountain,6.74,2.23
+Haryana,1984,2431.29,Alluvial,8.39,1.06
+Haryana,1985,2287.35,Red,5.82,2.79
+Haryana,1986,1434.77,Red,6.01,1.83
+Haryana,1987,2415.64,Saline,7.93,3.44
+Haryana,1988,2145.74,Black,6.23,1.17
+Haryana,1989,1336.63,Black,7.12,1.36
+Haryana,1990,1968.55,Desert,6.37,1.86
+Haryana,1991,1601.75,Red,7.49,0.59
+Haryana,1992,2201.74,Saline,7.95,2.69
+Haryana,1993,782.06,Laterite,6.61,3.2
+Haryana,1994,1963.28,Red,6.86,3.26
+Haryana,1995,1456.21,Laterite,6.95,3.25
+Haryana,1996,952.62,Red,8.31,3.22
+Haryana,1997,1252.32,Mountain,6.86,1.61
+Haryana,1998,1004.75,Laterite,6.78,3.16
+Haryana,1999,2469.66,Mountain,7.89,0.95
+Haryana,2000,1418.58,Alluvial,6.4,1.41
+Haryana,2001,2048.73,Laterite,8.46,0.93
+Haryana,2002,2084.13,Black,7.99,3.4
+Haryana,2003,1416.88,Red,6.94,1.07
+Haryana,2004,961.39,Alluvial,8.24,1.72
+Haryana,2005,2002.67,Red,6.93,2.38
+Haryana,2006,477.87,Desert,8.24,2.64
+Haryana,2007,1693.73,Desert,7.63,0.59
+Haryana,2008,2100.0,Alluvial,7.79,2.01
+Haryana,2009,1165.38,Laterite,8.39,1.01
+Haryana,2010,1789.34,Desert,5.55,1.02
+Haryana,2011,1559.3,Saline,5.96,0.81
+Haryana,2012,1402.91,Alluvial,7.92,1.42
+Haryana,2013,1841.93,Desert,6.94,0.74
+Haryana,2014,2488.99,Mountain,6.24,1.68
+Haryana,2015,1945.03,Desert,7.96,3.3
+Haryana,2016,1163.53,Alluvial,7.5,0.77
+Haryana,2017,428.88,Laterite,6.64,1.16
+Madhya Pradesh,1961,906.15,Alluvial,6.52,0.87
+Madhya Pradesh,1962,697.15,Mountain,8.24,1.3
+Madhya Pradesh,1963,2486.15,Black,8.32,1.0
+Madhya Pradesh,1964,1143.21,Desert,5.65,2.8
+Madhya Pradesh,1965,1563.06,Mountain,8.48,2.51
+Madhya Pradesh,1966,1520.34,Desert,7.71,0.56
+Madhya Pradesh,1967,1791.9,Saline,6.34,2.26
+Madhya Pradesh,1968,1051.59,Black,5.59,0.93
+Madhya Pradesh,1969,874.77,Black,7.58,1.38
+Madhya Pradesh,1970,2355.41,Desert,7.21,3.09
+Madhya Pradesh,1971,1790.43,Mountain,5.75,1.32
+Madhya Pradesh,1972,1674.53,Laterite,8.14,1.28
+Madhya Pradesh,1973,537.65,Mountain,8.37,1.58
+Madhya Pradesh,1974,807.47,Black,7.53,1.43
+Madhya Pradesh,1975,526.42,Black,5.73,1.81
+Madhya Pradesh,1976,2003.02,Laterite,6.45,1.08
+Madhya Pradesh,1977,864.31,Black,5.67,2.23
+Madhya Pradesh,1978,1598.45,Red,5.76,3.48
+Madhya Pradesh,1979,669.74,Mountain,6.53,3.41
+Madhya Pradesh,1980,2272.68,Desert,7.04,2.93
+Madhya Pradesh,1981,1661.35,Desert,7.59,2.16
+Madhya Pradesh,1982,1128.93,Mountain,8.2,2.37
+Madhya Pradesh,1983,305.3,Red,7.93,2.88
+Madhya Pradesh,1984,731.2,Desert,7.74,1.59
+Madhya Pradesh,1985,1703.35,Red,8.21,3.33
+Madhya Pradesh,1986,2245.14,Desert,6.77,2.57
+Madhya Pradesh,1987,2310.8,Red,6.68,2.06
+Madhya Pradesh,1988,2202.92,Alluvial,6.28,1.9
+Madhya Pradesh,1989,914.16,Laterite,5.83,1.32
+Madhya Pradesh,1990,1252.51,Mountain,6.89,2.97
+Madhya Pradesh,1991,1392.6,Black,6.2,2.73
+Madhya Pradesh,1992,956.95,Desert,5.94,2.78
+Madhya Pradesh,1993,2007.17,Alluvial,8.42,2.0
+Madhya Pradesh,1994,1811.29,Black,8.4,2.66
+Madhya Pradesh,1995,828.02,Desert,7.21,0.64
+Madhya Pradesh,1996,1045.24,Laterite,7.39,2.46
+Madhya Pradesh,1997,1826.94,Saline,5.95,3.14
+Madhya Pradesh,1998,2028.31,Desert,7.19,1.47
+Madhya Pradesh,1999,2071.24,Mountain,7.47,3.45
+Madhya Pradesh,2000,1355.03,Desert,6.59,1.91
+Madhya Pradesh,2001,430.92,Black,6.62,2.09
+Madhya Pradesh,2002,721.43,Alluvial,6.94,1.89
+Madhya Pradesh,2003,791.24,Mountain,8.13,1.95
+Madhya Pradesh,2004,1160.53,Black,6.52,3.19
+Madhya Pradesh,2005,1983.32,Red,6.01,0.58
+Madhya Pradesh,2006,1329.92,Alluvial,8.26,2.71
+Madhya Pradesh,2007,807.27,Alluvial,8.45,0.78
+Madhya Pradesh,2008,911.17,Alluvial,7.04,0.62
+Madhya Pradesh,2009,2088.55,Mountain,6.66,1.58
+Madhya Pradesh,2010,852.01,Mountain,7.4,1.89
+Madhya Pradesh,2011,1807.62,Saline,7.24,1.23
+Madhya Pradesh,2012,2437.17,Alluvial,5.64,1.63
+Madhya Pradesh,2013,974.11,Desert,7.8,3.02
+Madhya Pradesh,2014,1930.42,Alluvial,6.98,2.8
+Madhya Pradesh,2015,1721.65,Red,7.04,2.57
+Madhya Pradesh,2016,1188.9,Black,6.63,0.6
+Madhya Pradesh,2017,1716.24,Red,8.08,1.65
+Rajasthan,1961,1687.17,Black,8.19,0.59
+Rajasthan,1962,319.03,Black,8.47,1.03
+Rajasthan,1963,2054.26,Mountain,6.06,3.45
+Rajasthan,1964,828.97,Desert,6.1,0.98
+Rajasthan,1965,1245.95,Laterite,5.6,0.58
+Rajasthan,1966,2471.76,Desert,5.77,2.1
+Rajasthan,1967,1935.97,Black,5.98,2.22
+Rajasthan,1968,966.66,Saline,5.85,2.3
+Rajasthan,1969,505.53,Saline,5.71,0.98
+Rajasthan,1970,1882.48,Alluvial,6.2,1.59
+Rajasthan,1971,1440.13,Mountain,6.29,1.1
+Rajasthan,1972,2244.33,Red,6.59,1.35
+Rajasthan,1973,800.24,Black,5.61,2.88
+Rajasthan,1974,1048.77,Alluvial,7.33,1.62
+Rajasthan,1975,302.03,Alluvial,6.2,1.97
+Rajasthan,1976,784.03,Red,6.04,0.56
+Rajasthan,1977,1112.66,Red,5.92,1.57
+Rajasthan,1978,2082.85,Black,8.35,2.48
+Rajasthan,1979,1925.05,Red,8.0,2.27
+Rajasthan,1980,1620.8,Laterite,7.81,2.03
+Rajasthan,1981,1465.48,Mountain,7.02,2.65
+Rajasthan,1982,1247.92,Desert,6.54,0.86
+Rajasthan,1983,2207.37,Mountain,8.01,2.35
+Rajasthan,1984,2141.39,Saline,8.04,1.48
+Rajasthan,1985,1205.48,Alluvial,8.19,1.38
+Rajasthan,1986,1859.38,Mountain,6.45,0.53
+Rajasthan,1987,1053.55,Mountain,7.32,2.7
+Rajasthan,1988,1080.31,Laterite,6.52,1.65
+Rajasthan,1989,1359.37,Saline,6.92,1.92
+Rajasthan,1990,1566.58,Red,5.75,2.26
+Rajasthan,1991,1326.32,Mountain,6.61,0.82
+Rajasthan,1992,968.7,Mountain,6.69,1.96
+Rajasthan,1993,2162.85,Red,8.35,1.3
+Rajasthan,1994,766.92,Mountain,5.76,3.23
+Rajasthan,1995,1325.06,Desert,5.95,2.86
+Rajasthan,1996,304.51,Mountain,5.75,1.94
+Rajasthan,1997,1365.31,Desert,7.29,1.16
+Rajasthan,1998,1621.58,Laterite,6.48,1.21
+Rajasthan,1999,1911.8,Alluvial,6.07,2.63
+Rajasthan,2000,711.91,Black,6.14,2.91
+Rajasthan,2001,648.69,Desert,7.43,0.99
+Rajasthan,2002,2389.13,Mountain,7.43,0.62
+Rajasthan,2003,1452.39,Saline,6.51,0.53
+Rajasthan,2004,2031.94,Alluvial,6.25,2.17
+Rajasthan,2005,1206.0,Saline,6.82,2.51
+Rajasthan,2006,1296.29,Laterite,7.1,3.14
+Rajasthan,2007,332.74,Desert,7.74,0.92
+Rajasthan,2008,544.81,Laterite,7.32,3.05
+Rajasthan,2009,800.61,Red,6.57,1.96
+Rajasthan,2010,2431.97,Red,8.14,2.02
+Rajasthan,2011,1931.58,Desert,7.86,1.82
+Rajasthan,2012,381.34,Alluvial,6.27,0.67
+Rajasthan,2013,1153.98,Alluvial,6.99,2.08
+Rajasthan,2014,1877.34,Black,6.54,0.99
+Rajasthan,2015,717.62,Desert,7.43,2.54
+Rajasthan,2016,1049.53,Mountain,8.09,0.77
+Rajasthan,2017,668.79,Desert,6.76,2.0
+Maharashtra,1961,2137.05,Laterite,6.3,0.98
+Maharashtra,1962,1773.67,Black,8.49,1.44
+Maharashtra,1963,2463.03,Laterite,6.83,1.17
+Maharashtra,1964,1812.54,Alluvial,7.59,1.85
+Maharashtra,1965,1513.34,Desert,7.7,2.44
+Maharashtra,1966,1235.73,Red,6.17,3.01
+Maharashtra,1967,1741.76,Saline,6.08,0.51
+Maharashtra,1968,554.38,Black,5.92,1.21
+Maharashtra,1969,446.15,Alluvial,6.32,0.53
+Maharashtra,1970,544.93,Red,6.69,3.09
+Maharashtra,1971,638.8,Mountain,5.59,2.36
+Maharashtra,1972,1727.78,Alluvial,7.81,2.05
+Maharashtra,1973,371.35,Laterite,6.86,0.56
+Maharashtra,1974,1690.38,Black,6.63,1.79
+Maharashtra,1975,1702.02,Laterite,7.91,0.64
+Maharashtra,1976,2371.7,Alluvial,6.38,0.87
+Maharashtra,1977,818.2,Red,6.12,0.81
+Maharashtra,1978,2081.07,Mountain,7.48,2.23
+Maharashtra,1979,2053.86,Black,8.04,1.37
+Maharashtra,1980,1216.68,Desert,5.88,3.45
+Maharashtra,1981,2161.66,Red,7.81,3.12
+Maharashtra,1982,853.16,Desert,8.25,1.79
+Maharashtra,1983,1907.7,Black,5.67,1.02
+Maharashtra,1984,860.43,Laterite,7.11,3.19
+Maharashtra,1985,571.19,Red,7.11,2.65
+Maharashtra,1986,744.84,Laterite,8.04,1.07
+Maharashtra,1987,630.67,Black,6.72,0.78
+Maharashtra,1988,2333.77,Alluvial,6.16,3.12
+Maharashtra,1989,709.5,Mountain,8.2,3.14
+Maharashtra,1990,2120.03,Red,7.63,2.79
+Maharashtra,1991,1195.71,Red,7.7,2.36
+Maharashtra,1992,670.23,Saline,6.77,2.17
+Maharashtra,1993,902.17,Laterite,7.71,1.6
+Maharashtra,1994,1895.83,Laterite,7.62,1.74
+Maharashtra,1995,1265.48,Desert,6.83,0.8
+Maharashtra,1996,1622.93,Red,8.48,3.46
+Maharashtra,1997,726.37,Black,7.49,2.34
+Maharashtra,1998,1629.26,Saline,6.36,2.84
+Maharashtra,1999,390.04,Desert,6.48,2.91
+Maharashtra,2000,498.48,Red,7.64,1.88
+Maharashtra,2001,1603.4,Mountain,5.82,1.57
+Maharashtra,2002,1724.69,Desert,7.59,2.14
+Maharashtra,2003,383.19,Desert,6.85,1.11
+Maharashtra,2004,540.39,Black,6.47,1.07
+Maharashtra,2005,1953.68,Desert,7.03,1.42
+Maharashtra,2006,1602.11,Desert,6.27,3.27
+Maharashtra,2007,2039.29,Saline,7.94,1.33
+Maharashtra,2008,731.24,Black,5.68,2.58
+Maharashtra,2009,671.49,Red,7.62,2.32
+Maharashtra,2010,1474.8,Red,5.9,1.51
+Maharashtra,2011,2124.19,Black,7.02,1.22
+Maharashtra,2012,1586.67,Laterite,5.58,1.03
+Maharashtra,2013,1421.66,Mountain,6.46,2.01
+Maharashtra,2014,2474.3,Black,7.45,1.98
+Maharashtra,2015,986.09,Desert,6.97,0.77
+Maharashtra,2016,2070.63,Laterite,5.6,1.01
+Maharashtra,2017,2371.25,Black,7.38,2.19
+Gujarat,1961,481.93,Red,7.67,1.71
+Gujarat,1962,1247.69,Laterite,6.57,2.78
+Gujarat,1963,2244.24,Alluvial,8.04,3.38
+Gujarat,1964,693.25,Laterite,7.57,2.6
+Gujarat,1965,1600.18,Mountain,7.2,0.6
+Gujarat,1966,2288.86,Black,7.57,2.5
+Gujarat,1967,942.7,Black,6.76,0.53
+Gujarat,1968,2474.03,Desert,5.96,1.92
+Gujarat,1969,1147.15,Laterite,5.69,1.06
+Gujarat,1970,1816.2,Black,6.05,1.29
+Gujarat,1971,617.56,Desert,7.59,0.62
+Gujarat,1972,1636.33,Saline,8.07,2.89
+Gujarat,1973,1287.84,Mountain,8.21,2.87
+Gujarat,1974,1937.13,Laterite,7.34,2.62
+Gujarat,1975,990.33,Alluvial,8.07,2.74
+Gujarat,1976,1556.79,Red,5.73,1.22
+Gujarat,1977,955.98,Mountain,6.6,1.51
+Gujarat,1978,2335.23,Alluvial,6.44,1.19
+Gujarat,1979,377.83,Alluvial,7.21,2.42
+Gujarat,1980,1906.54,Saline,7.49,1.77
+Gujarat,1981,2419.57,Red,7.19,2.04
+Gujarat,1982,1815.17,Red,5.86,2.66
+Gujarat,1983,1482.66,Black,6.04,1.58
+Gujarat,1984,1138.83,Mountain,7.88,2.93
+Gujarat,1985,389.86,Alluvial,5.82,3.06
+Gujarat,1986,1055.56,Red,6.95,3.03
+Gujarat,1987,757.6,Mountain,6.84,1.55
+Gujarat,1988,1899.53,Saline,7.94,2.89
+Gujarat,1989,2032.22,Mountain,7.6,0.66
+Gujarat,1990,1713.28,Red,6.07,3.46
+Gujarat,1991,1938.01,Saline,8.18,3.46
+Gujarat,1992,642.06,Red,6.65,2.69
+Gujarat,1993,592.79,Red,8.34,1.29
+Gujarat,1994,469.52,Black,6.18,0.76
+Gujarat,1995,1557.9,Laterite,5.97,1.27
+Gujarat,1996,979.62,Mountain,6.12,2.13
+Gujarat,1997,317.18,Alluvial,8.34,2.04
+Gujarat,1998,1947.21,Desert,7.34,0.77
+Gujarat,1999,647.86,Red,6.97,1.14
+Gujarat,2000,1669.98,Mountain,6.18,1.03
+Gujarat,2001,1451.04,Alluvial,6.36,2.27
+Gujarat,2002,664.06,Mountain,7.76,1.72
+Gujarat,2003,1620.2,Laterite,7.68,2.25
+Gujarat,2004,749.24,Laterite,6.2,1.51
+Gujarat,2005,2384.52,Red,8.03,0.99
+Gujarat,2006,2242.31,Red,8.47,0.68
+Gujarat,2007,1286.93,Mountain,5.69,2.87
+Gujarat,2008,824.34,Red,8.49,1.82
+Gujarat,2009,638.16,Desert,6.37,0.55
+Gujarat,2010,809.9,Red,6.82,2.81
+Gujarat,2011,911.43,Desert,8.34,0.73
+Gujarat,2012,2392.79,Saline,6.86,1.94
+Gujarat,2013,1231.99,Mountain,5.64,0.64
+Gujarat,2014,1980.27,Black,6.67,2.78
+Gujarat,2015,725.36,Saline,7.41,1.01
+Gujarat,2016,331.26,Alluvial,7.69,1.97
+Gujarat,2017,1480.28,Laterite,6.24,2.55
+West Bengal,1961,2420.22,Mountain,7.01,2.4
+West Bengal,1962,871.8,Alluvial,6.35,1.93
+West Bengal,1963,2270.92,Desert,7.25,1.77
+West Bengal,1964,910.23,Black,8.33,1.08
+West Bengal,1965,1005.72,Laterite,7.09,0.56
+West Bengal,1966,788.12,Desert,6.82,1.79
+West Bengal,1967,1097.4,Mountain,8.29,1.63
+West Bengal,1968,1217.69,Saline,7.86,2.67
+West Bengal,1969,540.14,Laterite,7.77,1.59
+West Bengal,1970,940.87,Mountain,5.59,1.36
+West Bengal,1971,1130.41,Desert,8.0,2.15
+West Bengal,1972,1119.34,Laterite,7.55,1.6
+West Bengal,1973,2214.81,Alluvial,6.69,1.4
+West Bengal,1974,1852.58,Mountain,6.49,1.02
+West Bengal,1975,538.07,Saline,7.99,3.31
+West Bengal,1976,997.32,Red,6.26,2.97
+West Bengal,1977,1155.85,Black,8.41,0.98
+West Bengal,1978,1070.6,Desert,5.93,1.54
+West Bengal,1979,1433.11,Black,8.47,2.71
+West Bengal,1980,824.79,Desert,6.58,2.54
+West Bengal,1981,1233.63,Saline,8.42,2.62
+West Bengal,1982,739.84,Red,5.71,1.4
+West Bengal,1983,486.63,Desert,7.43,3.09
+West Bengal,1984,1668.41,Laterite,8.2,2.65
+West Bengal,1985,1728.01,Desert,5.92,3.2
+West Bengal,1986,753.73,Saline,5.69,1.42
+West Bengal,1987,1557.1,Laterite,7.51,1.36
+West Bengal,1988,1334.95,Laterite,6.5,3.08
+West Bengal,1989,1625.63,Black,8.28,2.96
+West Bengal,1990,576.85,Mountain,6.24,1.74
+West Bengal,1991,2464.55,Black,5.93,0.81
+West Bengal,1992,611.34,Alluvial,8.4,0.54
+West Bengal,1993,666.47,Laterite,5.73,3.24
+West Bengal,1994,2003.91,Black,8.39,1.44
+West Bengal,1995,1449.49,Alluvial,6.2,1.18
+West Bengal,1996,379.88,Black,5.59,1.9
+West Bengal,1997,2385.35,Mountain,8.36,0.81
+West Bengal,1998,699.92,Alluvial,6.32,1.49
+West Bengal,1999,835.29,Red,8.29,1.82
+West Bengal,2000,452.56,Black,8.35,2.79
+West Bengal,2001,989.48,Mountain,6.73,2.68
+West Bengal,2002,1398.92,Alluvial,8.24,1.16
+West Bengal,2003,2454.23,Black,6.52,0.97
+West Bengal,2004,816.02,Desert,6.52,0.55
+West Bengal,2005,1840.7,Black,6.7,1.69
+West Bengal,2006,961.76,Saline,7.39,2.12
+West Bengal,2007,2200.66,Saline,5.87,1.4
+West Bengal,2008,1850.53,Black,6.27,2.11
+West Bengal,2009,451.33,Red,8.31,1.8
+West Bengal,2010,2385.98,Red,6.75,2.38
+West Bengal,2011,1541.99,Red,5.5,2.8
+West Bengal,2012,1171.28,Black,7.26,1.82
+West Bengal,2013,1478.96,Laterite,7.13,0.62
+West Bengal,2014,1046.71,Black,5.9,2.5
+West Bengal,2015,892.42,Black,5.84,1.12
+West Bengal,2016,1999.54,Red,7.58,1.17
+West Bengal,2017,1233.65,Saline,6.56,1.3
+Bihar,1961,1036.83,Red,6.38,0.68
+Bihar,1962,1471.71,Red,6.94,1.38
+Bihar,1963,2082.98,Red,5.73,1.13
+Bihar,1964,302.8,Red,8.01,1.02
+Bihar,1965,1346.24,Black,6.17,0.83
+Bihar,1966,2280.39,Black,8.01,1.77
+Bihar,1967,1024.51,Mountain,6.73,2.91
+Bihar,1968,1339.57,Desert,7.13,1.29
+Bihar,1969,2121.17,Red,7.31,3.05
+Bihar,1970,1595.58,Mountain,7.87,0.99
+Bihar,1971,696.93,Saline,5.93,2.67
+Bihar,1972,1919.64,Saline,6.32,3.48
+Bihar,1973,780.34,Mountain,6.7,3.1
+Bihar,1974,962.33,Desert,7.18,1.2
+Bihar,1975,1611.2,Black,5.63,3.05
+Bihar,1976,2424.28,Black,5.76,1.36
+Bihar,1977,899.95,Laterite,5.88,1.8
+Bihar,1978,1588.83,Saline,8.41,2.56
+Bihar,1979,898.86,Black,6.13,2.85
+Bihar,1980,1034.71,Red,7.91,1.98
+Bihar,1981,737.42,Black,5.85,1.54
+Bihar,1982,356.69,Red,6.88,1.81
+Bihar,1983,873.56,Black,5.54,1.47
+Bihar,1984,530.83,Saline,7.66,3.39
+Bihar,1985,1266.18,Mountain,5.67,2.87
+Bihar,1986,1006.47,Laterite,7.53,1.84
+Bihar,1987,1996.57,Laterite,7.3,1.75
+Bihar,1988,1606.26,Red,7.41,2.28
+Bihar,1989,1427.24,Black,6.38,0.76
+Bihar,1990,2425.19,Black,7.77,2.76
+Bihar,1991,490.16,Black,6.11,1.62
+Bihar,1992,615.06,Saline,6.61,2.85
+Bihar,1993,1307.02,Black,6.42,1.06
+Bihar,1994,1689.8,Black,6.29,3.01
+Bihar,1995,2224.09,Saline,5.92,3.43
+Bihar,1996,2051.88,Saline,6.88,2.59
+Bihar,1997,1827.6,Black,6.98,0.99
+Bihar,1998,943.59,Desert,6.56,3.29
+Bihar,1999,2405.33,Mountain,8.42,3.01
+Bihar,2000,1293.77,Black,8.39,1.41
+Bihar,2001,1458.51,Red,6.29,1.48
+Bihar,2002,327.68,Black,7.74,2.66
+Bihar,2003,1112.97,Alluvial,6.96,2.72
+Bihar,2004,2359.76,Black,8.41,2.63
+Bihar,2005,1503.86,Saline,7.19,0.5
+Bihar,2006,678.65,Saline,6.59,0.71
+Bihar,2007,430.15,Alluvial,5.84,1.32
+Bihar,2008,1754.32,Laterite,5.86,1.22
+Bihar,2009,2454.43,Laterite,7.85,1.36
+Bihar,2010,1557.82,Desert,5.66,0.78
+Bihar,2011,2374.97,Mountain,5.75,1.27
+Bihar,2012,1398.14,Alluvial,8.14,1.29
+Bihar,2013,854.11,Saline,5.66,2.61
+Bihar,2014,1846.06,Alluvial,6.88,2.89
+Bihar,2015,638.1,Black,6.35,3.27
+Bihar,2016,1724.93,Saline,6.61,3.2
+Bihar,2017,1283.28,Red,7.94,0.88
+Andhra Pradesh,1961,2448.4,Mountain,6.01,2.92
+Andhra Pradesh,1962,308.7,Laterite,6.5,1.34
+Andhra Pradesh,1963,1251.86,Mountain,7.94,1.04
+Andhra Pradesh,1964,607.0,Desert,7.02,1.68
+Andhra Pradesh,1965,2471.97,Desert,7.17,2.78
+Andhra Pradesh,1966,622.56,Mountain,7.0,3.46
+Andhra Pradesh,1967,2360.7,Alluvial,6.55,0.97
+Andhra Pradesh,1968,2054.58,Desert,7.58,1.76
+Andhra Pradesh,1969,701.03,Desert,6.5,1.95
+Andhra Pradesh,1970,802.44,Alluvial,7.98,1.19
+Andhra Pradesh,1971,1357.8,Black,5.82,2.31
+Andhra Pradesh,1972,1670.79,Saline,5.99,2.76
+Andhra Pradesh,1973,1591.8,Saline,7.71,0.52
+Andhra Pradesh,1974,2226.82,Desert,8.31,2.53
+Andhra Pradesh,1975,547.91,Saline,5.5,1.83
+Andhra Pradesh,1976,2394.96,Mountain,6.0,1.16
+Andhra Pradesh,1977,1304.56,Red,8.31,1.38
+Andhra Pradesh,1978,635.47,Saline,7.7,1.21
+Andhra Pradesh,1979,423.31,Mountain,7.04,3.11
+Andhra Pradesh,1980,863.52,Red,5.8,0.61
+Andhra Pradesh,1981,1195.4,Laterite,7.85,2.53
+Andhra Pradesh,1982,2477.05,Red,7.56,2.06
+Andhra Pradesh,1983,760.79,Saline,8.0,2.68
+Andhra Pradesh,1984,1655.41,Laterite,5.64,2.69
+Andhra Pradesh,1985,679.87,Red,7.37,2.61
+Andhra Pradesh,1986,1331.14,Saline,6.88,2.36
+Andhra Pradesh,1987,1829.62,Red,6.6,0.65
+Andhra Pradesh,1988,2224.76,Black,7.45,2.84
+Andhra Pradesh,1989,1329.23,Red,6.77,3.43
+Andhra Pradesh,1990,1297.76,Desert,6.48,2.2
+Andhra Pradesh,1991,592.93,Alluvial,6.01,1.24
+Andhra Pradesh,1992,357.49,Laterite,7.91,1.83
+Andhra Pradesh,1993,2224.48,Black,6.16,2.45
+Andhra Pradesh,1994,1771.14,Saline,5.68,1.97
+Andhra Pradesh,1995,1014.76,Laterite,7.36,2.0
+Andhra Pradesh,1996,1238.22,Alluvial,7.23,0.77
+Andhra Pradesh,1997,430.29,Desert,6.95,2.05
+Andhra Pradesh,1998,915.5,Alluvial,7.51,2.2
+Andhra Pradesh,1999,2171.46,Saline,6.79,3.45
+Andhra Pradesh,2000,1750.06,Red,8.27,1.78
+Andhra Pradesh,2001,2336.56,Black,8.04,0.55
+Andhra Pradesh,2002,1333.9,Alluvial,5.75,1.71
+Andhra Pradesh,2003,2379.71,Red,8.24,3.22
+Andhra Pradesh,2004,2279.46,Red,7.81,1.8
+Andhra Pradesh,2005,1792.07,Saline,6.21,1.58
+Andhra Pradesh,2006,2150.87,Desert,7.18,1.11
+Andhra Pradesh,2007,1207.58,Saline,6.87,0.61
+Andhra Pradesh,2008,2318.63,Desert,6.96,0.75
+Andhra Pradesh,2009,1584.26,Laterite,6.92,0.64
+Andhra Pradesh,2010,1260.85,Red,6.06,1.22
+Andhra Pradesh,2011,1785.31,Alluvial,8.21,1.47
+Andhra Pradesh,2012,658.85,Saline,7.7,2.76
+Andhra Pradesh,2013,1513.18,Saline,6.96,1.98
+Andhra Pradesh,2014,823.81,Saline,7.28,2.86
+Andhra Pradesh,2015,552.04,Saline,8.41,1.36
+Andhra Pradesh,2016,1580.54,Laterite,5.51,2.37
+Andhra Pradesh,2017,2294.01,Black,7.24,3.2
+Tamil Nadu,1961,2231.94,Red,7.01,2.19
+Tamil Nadu,1962,2241.56,Laterite,7.59,2.61
+Tamil Nadu,1963,2165.2,Saline,8.19,1.95
+Tamil Nadu,1964,811.11,Saline,8.26,1.78
+Tamil Nadu,1965,1544.23,Desert,7.3,1.88
+Tamil Nadu,1966,2105.65,Desert,7.69,3.07
+Tamil Nadu,1967,1093.47,Alluvial,7.16,0.51
+Tamil Nadu,1968,1506.19,Black,7.97,1.1
+Tamil Nadu,1969,374.56,Red,5.64,1.03
+Tamil Nadu,1970,1849.38,Mountain,7.66,0.99
+Tamil Nadu,1971,348.55,Saline,6.24,1.4
+Tamil Nadu,1972,995.3,Saline,6.24,3.36
+Tamil Nadu,1973,309.61,Alluvial,8.08,2.13
+Tamil Nadu,1974,1520.43,Saline,8.07,2.88
+Tamil Nadu,1975,554.38,Red,6.47,2.08
+Tamil Nadu,1976,573.3,Alluvial,7.23,1.66
+Tamil Nadu,1977,1815.6,Mountain,7.39,0.65
+Tamil Nadu,1978,2319.56,Red,6.58,3.08
+Tamil Nadu,1979,465.46,Red,5.97,3.12
+Tamil Nadu,1980,2161.94,Laterite,5.9,2.88
+Tamil Nadu,1981,1065.45,Desert,7.04,2.85
+Tamil Nadu,1982,853.96,Laterite,6.1,1.68
+Tamil Nadu,1983,905.75,Desert,5.64,1.9
+Tamil Nadu,1984,2478.41,Desert,7.62,3.16
+Tamil Nadu,1985,1874.65,Desert,7.69,2.72
+Tamil Nadu,1986,1294.34,Alluvial,7.49,3.21
+Tamil Nadu,1987,450.44,Alluvial,7.51,1.04
+Tamil Nadu,1988,1505.47,Black,7.14,1.24
+Tamil Nadu,1989,1310.51,Desert,6.34,1.86
+Tamil Nadu,1990,2229.69,Laterite,7.81,2.56
+Tamil Nadu,1991,384.07,Black,6.04,2.6
+Tamil Nadu,1992,1156.47,Mountain,6.52,2.28
+Tamil Nadu,1993,401.73,Alluvial,8.04,2.84
+Tamil Nadu,1994,2253.56,Mountain,6.84,1.11
+Tamil Nadu,1995,879.31,Desert,6.59,3.09
+Tamil Nadu,1996,2432.11,Mountain,5.86,1.71
+Tamil Nadu,1997,2322.29,Saline,6.99,0.86
+Tamil Nadu,1998,762.48,Black,7.92,2.59
+Tamil Nadu,1999,1260.01,Black,6.96,1.76
+Tamil Nadu,2000,2397.78,Red,5.69,3.49
+Tamil Nadu,2001,348.59,Laterite,7.29,0.69
+Tamil Nadu,2002,1844.69,Mountain,5.55,2.01
+Tamil Nadu,2003,373.75,Alluvial,6.95,3.09
+Tamil Nadu,2004,2032.05,Alluvial,6.55,1.9
+Tamil Nadu,2005,1141.23,Mountain,7.68,2.3
+Tamil Nadu,2006,601.81,Alluvial,6.78,2.85
+Tamil Nadu,2007,1217.08,Black,6.04,2.45
+Tamil Nadu,2008,2421.37,Alluvial,6.0,0.6
+Tamil Nadu,2009,1084.08,Saline,8.0,2.4
+Tamil Nadu,2010,1869.24,Saline,6.57,3.17
+Tamil Nadu,2011,1821.18,Desert,7.7,1.87
+Tamil Nadu,2012,763.85,Desert,8.16,0.83
+Tamil Nadu,2013,1649.24,Red,5.78,1.1
+Tamil Nadu,2014,1196.9,Saline,6.32,3.49
+Tamil Nadu,2015,1273.4,Saline,6.51,2.09
+Tamil Nadu,2016,1127.56,Laterite,7.71,2.54
+Tamil Nadu,2017,1606.72,Mountain,6.66,2.64
+Karnataka,1961,565.38,Red,8.44,2.47
+Karnataka,1962,1540.31,Laterite,7.87,0.9
+Karnataka,1963,1811.39,Saline,6.53,1.42
+Karnataka,1964,2412.05,Black,8.02,0.96
+Karnataka,1965,2302.05,Saline,8.48,2.05
+Karnataka,1966,2432.14,Red,8.27,1.92
+Karnataka,1967,2423.91,Saline,7.7,2.99
+Karnataka,1968,877.38,Black,7.84,0.63
+Karnataka,1969,2170.42,Saline,7.44,1.33
+Karnataka,1970,362.27,Saline,7.93,2.03
+Karnataka,1971,387.68,Desert,7.65,1.91
+Karnataka,1972,1878.2,Desert,7.06,2.93
+Karnataka,1973,1269.28,Mountain,8.16,1.67
+Karnataka,1974,391.09,Alluvial,6.95,2.25
+Karnataka,1975,580.48,Mountain,7.2,2.54
+Karnataka,1976,577.94,Laterite,7.44,1.2
+Karnataka,1977,1780.84,Red,6.84,3.23
+Karnataka,1978,1132.75,Mountain,5.51,1.67
+Karnataka,1979,1828.55,Desert,8.21,0.59
+Karnataka,1980,1075.77,Black,6.35,3.24
+Karnataka,1981,312.11,Saline,6.04,1.99
+Karnataka,1982,484.22,Red,6.23,3.33
+Karnataka,1983,830.43,Laterite,5.73,0.94
+Karnataka,1984,2075.41,Alluvial,6.3,3.49
+Karnataka,1985,1389.78,Alluvial,7.49,0.71
+Karnataka,1986,1007.23,Black,6.82,3.3
+Karnataka,1987,918.09,Mountain,8.29,1.11
+Karnataka,1988,880.71,Saline,6.52,2.4
+Karnataka,1989,1710.72,Red,6.71,1.43
+Karnataka,1990,1512.82,Mountain,7.23,2.84
+Karnataka,1991,1390.81,Mountain,5.85,1.93
+Karnataka,1992,1518.99,Mountain,7.47,1.79
+Karnataka,1993,519.97,Mountain,7.5,1.3
+Karnataka,1994,1853.13,Alluvial,5.68,1.77
+Karnataka,1995,1249.12,Laterite,8.0,2.83
+Karnataka,1996,2148.32,Desert,7.9,1.53
+Karnataka,1997,1503.66,Laterite,5.75,3.34
+Karnataka,1998,1119.87,Laterite,7.4,2.94
+Karnataka,1999,2104.84,Laterite,7.36,2.9
+Karnataka,2000,713.72,Saline,8.16,1.13
+Karnataka,2001,1271.84,Laterite,7.61,1.24
+Karnataka,2002,1613.34,Mountain,8.39,1.51
+Karnataka,2003,2093.05,Red,7.02,2.61
+Karnataka,2004,2336.23,Alluvial,6.23,1.88
+Karnataka,2005,546.49,Saline,8.13,1.22
+Karnataka,2006,1968.02,Alluvial,7.03,2.4
+Karnataka,2007,1317.34,Red,7.63,0.73
+Karnataka,2008,1933.37,Saline,8.48,1.28
+Karnataka,2009,2425.64,Alluvial,6.02,3.37
+Karnataka,2010,2432.84,Alluvial,6.31,1.06
+Karnataka,2011,1659.49,Mountain,8.02,0.67
+Karnataka,2012,1037.28,Mountain,7.5,0.52
+Karnataka,2013,1099.07,Laterite,5.98,1.1
+Karnataka,2014,1783.85,Laterite,6.83,2.22
+Karnataka,2015,2402.94,Laterite,6.09,2.75
+Karnataka,2016,420.79,Saline,5.64,1.27
+Karnataka,2017,498.49,Black,7.67,2.58
+Odisha,1961,2107.04,Mountain,8.43,2.22
+Odisha,1962,502.14,Red,8.39,1.41
+Odisha,1963,347.37,Laterite,5.75,2.04
+Odisha,1964,349.52,Red,5.9,0.63
+Odisha,1965,2447.28,Saline,7.49,1.14
+Odisha,1966,1384.2,Saline,6.92,1.03
+Odisha,1967,519.88,Mountain,7.15,0.89
+Odisha,1968,1711.41,Mountain,8.18,1.64
+Odisha,1969,1738.94,Alluvial,8.32,2.6
+Odisha,1970,1423.81,Laterite,5.58,1.57
+Odisha,1971,548.16,Laterite,8.23,2.63
+Odisha,1972,2120.24,Red,7.38,1.55
+Odisha,1973,790.25,Black,8.15,1.24
+Odisha,1974,1267.65,Red,7.18,3.28
+Odisha,1975,984.73,Laterite,6.3,2.07
+Odisha,1976,1580.13,Laterite,5.76,2.48
+Odisha,1977,1013.88,Mountain,6.89,1.66
+Odisha,1978,776.35,Laterite,7.42,2.56
+Odisha,1979,436.57,Mountain,6.49,3.46
+Odisha,1980,2237.15,Black,6.33,2.64
+Odisha,1981,490.92,Mountain,6.03,2.5
+Odisha,1982,723.92,Laterite,5.66,0.64
+Odisha,1983,365.48,Laterite,5.54,1.73
+Odisha,1984,2380.75,Alluvial,7.39,3.08
+Odisha,1985,2486.86,Mountain,7.49,2.65
+Odisha,1986,916.32,Alluvial,5.83,3.12
+Odisha,1987,1623.46,Saline,7.44,1.93
+Odisha,1988,994.98,Black,5.83,1.83
+Odisha,1989,1445.89,Red,8.39,0.76
+Odisha,1990,1080.52,Laterite,5.9,1.05
+Odisha,1991,1111.72,Laterite,6.95,0.84
+Odisha,1992,1572.54,Desert,7.5,1.94
+Odisha,1993,1785.36,Laterite,6.34,2.99
+Odisha,1994,487.48,Red,6.97,0.51
+Odisha,1995,679.53,Black,8.49,1.65
+Odisha,1996,1213.72,Desert,6.07,3.29
+Odisha,1997,2104.98,Saline,5.84,1.76
+Odisha,1998,2012.07,Laterite,6.95,2.91
+Odisha,1999,2194.6,Saline,6.86,1.83
+Odisha,2000,764.68,Mountain,6.68,1.49
+Odisha,2001,2224.75,Red,7.66,2.9
+Odisha,2002,678.2,Laterite,8.2,2.68
+Odisha,2003,2254.14,Black,8.06,1.72
+Odisha,2004,1265.11,Saline,7.47,3.34
+Odisha,2005,1605.9,Alluvial,7.42,0.96
+Odisha,2006,1814.99,Saline,7.18,1.96
+Odisha,2007,1460.08,Laterite,6.9,1.31
+Odisha,2008,1980.91,Laterite,7.79,2.84
+Odisha,2009,765.74,Saline,6.77,2.12
+Odisha,2010,430.19,Laterite,6.36,3.3
+Odisha,2011,754.72,Red,7.89,1.82
+Odisha,2012,849.25,Red,5.71,0.99
+Odisha,2013,1409.84,Alluvial,7.79,0.68
+Odisha,2014,2142.41,Saline,8.24,1.24
+Odisha,2015,1946.7,Alluvial,6.73,2.21
+Odisha,2016,582.89,Laterite,6.39,3.17
+Odisha,2017,2271.53,Desert,6.81,2.79
+Chhattisgarh,1961,890.16,Mountain,8.44,3.44
+Chhattisgarh,1962,1608.11,Black,5.74,1.44
+Chhattisgarh,1963,1297.8,Laterite,8.24,3.07
+Chhattisgarh,1964,1497.9,Saline,7.9,0.84
+Chhattisgarh,1965,513.67,Mountain,7.01,2.6
+Chhattisgarh,1966,453.42,Mountain,6.87,2.74
+Chhattisgarh,1967,1584.04,Alluvial,7.28,2.47
+Chhattisgarh,1968,1002.31,Laterite,7.81,2.34
+Chhattisgarh,1969,927.32,Desert,6.46,1.48
+Chhattisgarh,1970,1979.51,Alluvial,7.17,1.91
+Chhattisgarh,1971,827.46,Laterite,7.2,0.67
+Chhattisgarh,1972,872.54,Red,7.71,2.56
+Chhattisgarh,1973,1643.54,Desert,7.59,3.14
+Chhattisgarh,1974,1035.24,Desert,5.91,1.99
+Chhattisgarh,1975,1656.43,Laterite,7.67,2.21
+Chhattisgarh,1976,1767.97,Mountain,7.43,3.17
+Chhattisgarh,1977,937.34,Saline,8.14,2.75
+Chhattisgarh,1978,1862.14,Alluvial,6.14,2.75
+Chhattisgarh,1979,1549.65,Desert,5.55,3.16
+Chhattisgarh,1980,1932.3,Red,7.35,1.39
+Chhattisgarh,1981,1016.69,Laterite,8.27,2.45
+Chhattisgarh,1982,1868.08,Desert,8.49,1.69
+Chhattisgarh,1983,345.65,Desert,8.1,2.6
+Chhattisgarh,1984,340.59,Alluvial,5.75,3.36
+Chhattisgarh,1985,2256.65,Alluvial,6.61,1.11
+Chhattisgarh,1986,1987.54,Desert,7.81,2.02
+Chhattisgarh,1987,620.83,Desert,6.74,3.3
+Chhattisgarh,1988,1219.97,Saline,8.26,3.02
+Chhattisgarh,1989,2336.51,Laterite,6.49,3.13
+Chhattisgarh,1990,2102.56,Black,7.03,0.73
+Chhattisgarh,1991,1502.12,Mountain,5.93,2.39
+Chhattisgarh,1992,302.17,Mountain,8.45,2.52
+Chhattisgarh,1993,1038.41,Red,5.64,0.61
+Chhattisgarh,1994,682.35,Alluvial,5.52,1.56
+Chhattisgarh,1995,1978.46,Saline,7.32,1.9
+Chhattisgarh,1996,1246.09,Laterite,6.4,2.85
+Chhattisgarh,1997,1642.73,Mountain,7.45,2.99
+Chhattisgarh,1998,2149.05,Saline,5.86,2.99
+Chhattisgarh,1999,2080.76,Mountain,7.07,3.13
+Chhattisgarh,2000,668.52,Mountain,6.78,2.09
+Chhattisgarh,2001,729.36,Alluvial,6.51,0.67
+Chhattisgarh,2002,1446.2,Alluvial,5.78,2.58
+Chhattisgarh,2003,1727.68,Laterite,5.72,2.76
+Chhattisgarh,2004,1701.11,Laterite,5.85,3.47
+Chhattisgarh,2005,823.55,Desert,6.51,0.78
+Chhattisgarh,2006,491.16,Mountain,6.35,2.01
+Chhattisgarh,2007,707.7,Desert,5.92,3.11
+Chhattisgarh,2008,1652.16,Red,5.59,2.55
+Chhattisgarh,2009,1176.46,Desert,7.73,2.58
+Chhattisgarh,2010,1581.1,Red,5.53,3.42
+Chhattisgarh,2011,2494.52,Mountain,6.14,3.45
+Chhattisgarh,2012,1688.97,Laterite,7.9,3.34
+Chhattisgarh,2013,2042.13,Saline,8.01,2.64
+Chhattisgarh,2014,927.85,Black,7.51,2.09
+Chhattisgarh,2015,1719.54,Alluvial,7.86,2.27
+Chhattisgarh,2016,2091.62,Laterite,6.27,3.34
+Chhattisgarh,2017,1422.04,Saline,6.71,2.82
+Telangana,1961,2032.55,Mountain,7.69,3.15
+Telangana,1962,1840.97,Alluvial,8.18,2.95
+Telangana,1963,879.23,Desert,6.33,0.88
+Telangana,1964,865.18,Desert,6.62,1.69
+Telangana,1965,1531.64,Black,7.88,3.21
+Telangana,1966,1578.74,Desert,6.94,3.2
+Telangana,1967,1021.93,Desert,7.5,1.83
+Telangana,1968,2018.69,Red,6.36,3.3
+Telangana,1969,1520.02,Mountain,6.31,2.95
+Telangana,1970,791.48,Black,7.91,2.52
+Telangana,1971,836.01,Laterite,7.21,0.74
+Telangana,1972,535.05,Mountain,8.03,3.46
+Telangana,1973,700.94,Desert,8.48,1.59
+Telangana,1974,918.62,Alluvial,5.74,0.96
+Telangana,1975,1740.69,Saline,6.06,1.75
+Telangana,1976,1102.99,Red,5.58,1.27
+Telangana,1977,906.6,Desert,7.72,2.75
+Telangana,1978,1602.47,Laterite,8.03,3.31
+Telangana,1979,618.61,Saline,6.03,1.15
+Telangana,1980,1159.78,Black,5.94,1.81
+Telangana,1981,1648.18,Laterite,6.45,1.87
+Telangana,1982,900.49,Alluvial,7.68,0.77
+Telangana,1983,1725.9,Alluvial,8.47,3.29
+Telangana,1984,1605.36,Laterite,6.91,2.8
+Telangana,1985,1371.17,Black,8.29,0.56
+Telangana,1986,1115.42,Saline,6.1,3.09
+Telangana,1987,1066.65,Desert,7.77,1.2
+Telangana,1988,1687.45,Laterite,6.66,1.61
+Telangana,1989,1573.61,Saline,6.62,3.18
+Telangana,1990,1603.89,Saline,8.03,2.02
+Telangana,1991,1199.81,Saline,7.07,0.74
+Telangana,1992,550.84,Mountain,6.04,1.25
+Telangana,1993,1221.77,Alluvial,7.61,2.61
+Telangana,1994,1752.74,Laterite,5.91,3.09
+Telangana,1995,1988.28,Desert,7.61,1.12
+Telangana,1996,2453.32,Mountain,6.17,1.31
+Telangana,1997,1630.9,Laterite,7.02,1.94
+Telangana,1998,2450.11,Alluvial,6.14,1.55
+Telangana,1999,756.11,Red,8.07,1.97
+Telangana,2000,2458.53,Red,6.72,2.0
+Telangana,2001,2106.93,Alluvial,5.8,1.48
+Telangana,2002,2253.25,Laterite,7.82,1.84
+Telangana,2003,1498.09,Black,6.84,3.07
+Telangana,2004,859.32,Red,8.09,1.25
+Telangana,2005,1305.41,Red,6.74,2.67
+Telangana,2006,306.29,Red,5.64,2.9
+Telangana,2007,506.27,Laterite,7.15,1.78
+Telangana,2008,1225.69,Saline,6.79,3.23
+Telangana,2009,2343.22,Desert,5.73,2.54
+Telangana,2010,699.28,Black,7.08,2.2
+Telangana,2011,882.3,Laterite,7.7,1.43
+Telangana,2012,1846.47,Alluvial,6.82,1.41
+Telangana,2013,1803.61,Laterite,7.36,1.13
+Telangana,2014,514.17,Alluvial,5.54,2.74
+Telangana,2015,650.73,Alluvial,5.92,1.32
+Telangana,2016,2067.93,Desert,8.12,1.05
+Telangana,2017,1973.36,Alluvial,6.13,0.58
+Jharkhand,1961,1350.36,Saline,7.71,1.18
+Jharkhand,1962,1369.79,Laterite,7.59,1.89
+Jharkhand,1963,978.81,Laterite,8.43,1.9
+Jharkhand,1964,351.91,Desert,6.57,0.63
+Jharkhand,1965,971.3,Saline,7.83,1.86
+Jharkhand,1966,1889.13,Red,6.74,0.86
+Jharkhand,1967,1513.63,Laterite,7.24,3.36
+Jharkhand,1968,2372.4,Laterite,7.68,2.86
+Jharkhand,1969,430.64,Alluvial,6.29,2.31
+Jharkhand,1970,2096.39,Laterite,8.02,3.02
+Jharkhand,1971,1819.95,Alluvial,7.33,2.71
+Jharkhand,1972,1536.75,Desert,6.32,0.91
+Jharkhand,1973,1446.35,Red,6.62,1.2
+Jharkhand,1974,2392.89,Desert,8.26,0.86
+Jharkhand,1975,2349.4,Desert,7.55,2.09
+Jharkhand,1976,1226.59,Desert,6.21,1.74
+Jharkhand,1977,2005.12,Red,6.62,1.51
+Jharkhand,1978,607.65,Saline,8.1,3.37
+Jharkhand,1979,1175.83,Saline,5.83,1.55
+Jharkhand,1980,388.24,Saline,6.88,3.4
+Jharkhand,1981,1547.38,Saline,6.2,2.19
+Jharkhand,1982,1623.41,Alluvial,8.28,1.73
+Jharkhand,1983,1847.25,Alluvial,7.24,3.46
+Jharkhand,1984,580.24,Red,8.16,3.4
+Jharkhand,1985,2318.63,Mountain,5.82,3.34
+Jharkhand,1986,821.57,Black,7.48,1.82
+Jharkhand,1987,514.51,Desert,8.47,1.27
+Jharkhand,1988,1116.92,Alluvial,6.53,0.55
+Jharkhand,1989,771.19,Mountain,6.63,2.18
+Jharkhand,1990,2406.52,Saline,7.4,0.6
+Jharkhand,1991,524.67,Saline,6.14,2.64
+Jharkhand,1992,2171.86,Laterite,7.19,0.53
+Jharkhand,1993,551.44,Black,6.4,1.64
+Jharkhand,1994,1710.89,Desert,6.9,1.94
+Jharkhand,1995,880.12,Desert,6.48,2.32
+Jharkhand,1996,453.29,Desert,7.25,2.45
+Jharkhand,1997,1280.75,Laterite,8.5,2.32
+Jharkhand,1998,2022.63,Laterite,7.91,3.11
+Jharkhand,1999,1685.33,Red,6.51,0.92
+Jharkhand,2000,2127.75,Desert,7.01,3.3
+Jharkhand,2001,626.84,Laterite,6.63,2.4
+Jharkhand,2002,803.54,Saline,7.25,1.91
+Jharkhand,2003,390.17,Desert,5.91,2.51
+Jharkhand,2004,759.36,Red,8.22,0.73
+Jharkhand,2005,2450.08,Saline,7.68,2.58
+Jharkhand,2006,1430.27,Alluvial,5.65,1.6
+Jharkhand,2007,1843.53,Red,5.84,1.88
+Jharkhand,2008,1639.92,Red,6.73,2.94
+Jharkhand,2009,1802.14,Red,6.8,2.96
+Jharkhand,2010,1861.27,Black,8.21,1.42
+Jharkhand,2011,587.19,Alluvial,8.1,0.77
+Jharkhand,2012,1314.47,Laterite,6.87,2.97
+Jharkhand,2013,2337.02,Laterite,8.19,3.3
+Jharkhand,2014,874.59,Saline,6.31,0.52
+Jharkhand,2015,1918.74,Laterite,8.03,2.46
+Jharkhand,2016,1510.22,Laterite,6.3,2.69
+Jharkhand,2017,730.33,Saline,7.59,0.97
+Assam,1961,1542.26,Mountain,5.55,2.44
+Assam,1962,1186.94,Red,6.23,3.01
+Assam,1963,1352.6,Mountain,8.0,1.28
+Assam,1964,1708.21,Desert,7.7,1.66
+Assam,1965,2061.6,Red,7.81,3.38
+Assam,1966,1507.24,Black,6.49,2.13
+Assam,1967,1640.53,Laterite,7.26,2.89
+Assam,1968,2069.55,Desert,8.3,0.52
+Assam,1969,608.31,Black,7.75,1.92
+Assam,1970,1877.71,Alluvial,8.07,1.37
+Assam,1971,1108.99,Saline,6.6,3.07
+Assam,1972,683.94,Black,6.06,0.52
+Assam,1973,975.2,Red,7.95,0.75
+Assam,1974,2046.62,Desert,6.9,2.12
+Assam,1975,801.41,Alluvial,6.98,1.23
+Assam,1976,1204.21,Mountain,8.12,1.15
+Assam,1977,653.85,Alluvial,6.4,2.66
+Assam,1978,981.21,Mountain,6.21,1.87
+Assam,1979,2149.77,Alluvial,7.16,2.42
+Assam,1980,1838.11,Saline,6.67,2.95
+Assam,1981,2324.78,Desert,6.25,1.49
+Assam,1982,2468.02,Desert,5.56,1.67
+Assam,1983,613.63,Mountain,8.31,0.6
+Assam,1984,718.3,Saline,6.08,1.34
+Assam,1985,2384.42,Desert,6.88,3.14
+Assam,1986,1466.06,Saline,6.58,2.56
+Assam,1987,1230.98,Saline,7.98,2.91
+Assam,1988,792.19,Red,6.55,2.61
+Assam,1989,727.12,Red,6.91,0.91
+Assam,1990,2409.09,Black,6.57,1.23
+Assam,1991,1809.74,Mountain,5.99,1.45
+Assam,1992,2135.29,Laterite,6.8,2.35
+Assam,1993,2277.9,Black,5.96,2.06
+Assam,1994,2346.42,Laterite,7.9,1.59
+Assam,1995,649.19,Laterite,7.45,1.21
+Assam,1996,1508.16,Alluvial,7.02,1.19
+Assam,1997,2347.1,Mountain,8.07,0.56
+Assam,1998,2202.77,Laterite,7.69,2.79
+Assam,1999,1602.7,Black,6.25,0.96
+Assam,2000,374.29,Desert,7.2,2.95
+Assam,2001,2079.9,Laterite,8.24,2.5
+Assam,2002,1509.46,Desert,6.25,1.37
+Assam,2003,1594.64,Alluvial,6.49,3.22
+Assam,2004,720.28,Black,6.73,1.82
+Assam,2005,365.02,Saline,5.53,1.88
+Assam,2006,2273.84,Saline,8.43,3.27
+Assam,2007,1083.13,Red,6.62,2.0
+Assam,2008,1521.36,Alluvial,6.81,1.38
+Assam,2009,572.34,Red,7.33,3.06
+Assam,2010,623.23,Saline,8.12,2.47
+Assam,2011,586.34,Laterite,7.31,0.85
+Assam,2012,770.65,Red,6.8,0.72
+Assam,2013,1830.5,Black,6.94,0.59
+Assam,2014,2408.4,Red,6.78,1.02
+Assam,2015,1816.5,Alluvial,6.48,2.55
+Assam,2016,2414.6,Black,5.69,2.56
+Assam,2017,1201.03,Alluvial,6.19,0.9

@@ -1,0 +1,1441 @@
+State,Year,Crop,Export Volume,Wholesale Price,Production Quantity
+Uttar Pradesh,1970,Wheat,79.92,3034.12,595.5
+Uttar Pradesh,1970,Sugarcane,155.47,5638.76,729.44
+Uttar Pradesh,1970,Rice,305.97,1182.64,2722.26
+Punjab,1970,Wheat,430.95,1229.18,3290.32
+Punjab,1970,Rice,163.94,8736.14,1292.07
+Punjab,1970,Maize,76.63,3680.98,302.28
+Madhya Pradesh,1970,Soybean,179.13,3709.33,1642.8
+Madhya Pradesh,1970,Wheat,161.15,4662.9,569.58
+Madhya Pradesh,1970,Pulses,489.19,4475.1,4403.01
+Maharashtra,1970,Cotton,276.57,5892.73,2694.73
+Maharashtra,1970,Sugarcane,191.7,9501.37,1444.74
+Maharashtra,1970,Grapes,422.29,5263.48,3025.38
+West Bengal,1970,Rice,446.65,3381.14,3472.56
+West Bengal,1970,Jute,485.29,2628,2872.75
+West Bengal,1970,Tea,257.28,4977.26,1842.51
+Karnataka,1970,Coffee,429.11,4177.15,3900.79
+Karnataka,1970,Ragi,348.99,3707.41,2474.03
+Karnataka,1970,Maize,87.89,1043.84,809.34
+Andhra Pradesh,1970,Rice,179.81,7135.24,1383.59
+Andhra Pradesh,1970,Chillies,153.54,4418.39,1274.73
+Andhra Pradesh,1970,Tobacco,479.37,3376.6,1453.66
+Haryana,1970,Wheat,409.53,4595.3,1044.48
+Haryana,1970,Rice,479.68,8469.09,3373.58
+Haryana,1970,Barley,398.72,2511.27,1618.43
+Gujarat,1970,Groundnut,327.27,2069.2,2339.85
+Gujarat,1970,Cotton,416.65,7739.53,1424.67
+Gujarat,1970,Cumin,198.83,9012.74,924.91
+Assam,1970,Tea,107.95,3010.5,826.63
+Assam,1970,Rice,122.49,5150.34,268.45
+Assam,1970,Mustard,186.93,4742.86,1133.16
+Uttar Pradesh,1971,Wheat,82.23,1968.07,622.53
+Uttar Pradesh,1971,Sugarcane,160.06,3339.15,709.68
+Uttar Pradesh,1971,Rice,315.56,3476.69,2796.43
+Punjab,1971,Wheat,425.18,5483.24,3222.29
+Punjab,1971,Rice,161.85,1667.85,1248.63
+Punjab,1971,Maize,74.16,5853.98,317.01
+Madhya Pradesh,1971,Soybean,177.64,2530.46,1672.79
+Madhya Pradesh,1971,Wheat,159.89,6928.98,580.38
+Madhya Pradesh,1971,Pulses,468.42,5581.18,4233.57
+Maharashtra,1971,Cotton,271.23,5434.56,2775.17
+Maharashtra,1971,Sugarcane,198.75,8690.8,1448.92
+Maharashtra,1971,Grapes,402.81,1728.67,3168.97
+West Bengal,1971,Rice,466.45,8293.02,3595.11
+West Bengal,1971,Jute,468.68,1092.29,2754.61
+West Bengal,1971,Tea,256.43,3508.13,1791.53
+Karnataka,1971,Coffee,423.11,1806.69,3930.63
+Karnataka,1971,Ragi,343.93,3390.33,2448.4
+Karnataka,1971,Maize,91.79,6360.32,775.4
+Andhra Pradesh,1971,Rice,182.31,9227.3,1369.64
+Andhra Pradesh,1971,Chillies,160.47,6122.56,1276
+Andhra Pradesh,1971,Tobacco,471.65,8427.59,1477.17
+Haryana,1971,Wheat,396.94,1344.69,1014.16
+Haryana,1971,Rice,470.87,9287.95,3446.26
+Haryana,1971,Barley,404.76,9156.58,1608.63
+Gujarat,1971,Groundnut,321.29,9577.18,2323.26
+Gujarat,1971,Cotton,413.62,4854.2,1386.03
+Gujarat,1971,Cumin,208.7,2827.14,899.11
+Assam,1971,Tea,107.71,7824.11,807.59
+Assam,1971,Rice,124.43,1412.87,261.29
+Assam,1971,Mustard,192.92,2941.64,1147.43
+Uttar Pradesh,1972,Wheat,78.21,5815.83,651.74
+Uttar Pradesh,1972,Sugarcane,152.07,9251.4,715.27
+Uttar Pradesh,1972,Rice,326.21,3861.88,2731.3
+Punjab,1972,Wheat,426.21,8559.29,3191.27
+Punjab,1972,Rice,156.59,6531.24,1306.53
+Punjab,1972,Maize,72.42,6656.86,328.47
+Madhya Pradesh,1972,Soybean,180.36,4542.79,1755.38
+Madhya Pradesh,1972,Wheat,163.32,1764.91,596.83
+Madhya Pradesh,1972,Pulses,462.38,3109.03,4114.91
+Maharashtra,1972,Cotton,262.56,1975.83,2679.18
+Maharashtra,1972,Sugarcane,202.86,6690.29,1500.08
+Maharashtra,1972,Grapes,416.67,1686.31,3138.91
+West Bengal,1972,Rice,462.16,8849.65,3599.06
+West Bengal,1972,Jute,447.31,4867.7,2756.51
+West Bengal,1972,Tea,267.14,4240.1,1713.79
+Karnataka,1972,Coffee,412.54,1793.33,4023.18
+Karnataka,1972,Ragi,328.71,3983.62,2435.13
+Karnataka,1972,Maize,89.6,5354.86,804.14
+Andhra Pradesh,1972,Rice,188.78,5972.06,1437.38
+Andhra Pradesh,1972,Chillies,165.03,6998.62,1282.15
+Andhra Pradesh,1972,Tobacco,461.89,7883.21,2574.19
+Haryana,1972,Wheat,400.96,4126.33,985.79
+Haryana,1972,Rice,454.2,1607.49,3422.42
+Haryana,1972,Barley,415.48,9268.78,1629.53
+Gujarat,1972,Groundnut,308.09,4919.83,2334.98
+Gujarat,1972,Cotton,428.3,4467.45,1449.17
+Gujarat,1972,Cumin,212.65,3630.47,860.44
+Assam,1972,Tea,105.92,8383.57,782.17
+Assam,1972,Rice,120.38,7684.74,263.23
+Assam,1972,Mustard,201.83,9696.93,1092.18
+Uttar Pradesh,1973,Wheat,75.4,6689.86,675.7
+Uttar Pradesh,1973,Sugarcane,159.42,2489.35,684.92
+Uttar Pradesh,1973,Rice,327.31,2997.07,2634.78
+Punjab,1973,Wheat,446.78,2607.67,3346.58
+Punjab,1973,Rice,156.41,2920.16,1359.48
+Punjab,1973,Maize,73.02,7245.8,324.87
+Madhya Pradesh,1973,Soybean,178.2,9000.58,1675.47
+Madhya Pradesh,1973,Wheat,155.28,6153.1,624.28
+Madhya Pradesh,1973,Pulses,451.98,3133.82,4063.39
+Maharashtra,1973,Cotton,269.61,6275.75,2697.5
+Maharashtra,1973,Sugarcane,200.66,5274.99,1454.73
+Maharashtra,1973,Grapes,416.84,9774.21,3049.62
+West Bengal,1973,Rice,439.42,7104.78,3771.47
+West Bengal,1973,Jute,457.16,1983.66,2780.62
+West Bengal,1973,Tea,269.5,1092.49,1698.74
+Karnataka,1973,Coffee,399.24,4549.25,4170.33
+Karnataka,1973,Ragi,325.23,2503.98,2430.72
+Karnataka,1973,Maize,86.7,1992.91,769.11
+Andhra Pradesh,1973,Rice,179.62,9701.97,1488.46
+Andhra Pradesh,1973,Chillies,164.55,5345.09,1315.54
+Andhra Pradesh,1973,Tobacco,449.65,1493.01,2579.72
+Haryana,1973,Wheat,415.6,3759.3,948.8
+Haryana,1973,Rice,453.53,6764.24,3479.78
+Haryana,1973,Barley,421.74,7873.92,1667.99
+Gujarat,1973,Groundnut,323.44,2874.83,2429.59
+Gujarat,1973,Cotton,442.31,1526.91,1398.56
+Gujarat,1973,Cumin,203.79,1739.02,857.71
+Assam,1973,Tea,101.53,7245.29,756.04
+Assam,1973,Rice,118.99,1059.48,261.89
+Assam,1973,Mustard,194.9,1085.7,1071.97
+Uttar Pradesh,1974,Wheat,75.61,1043.1,689.48
+Uttar Pradesh,1974,Sugarcane,162.42,4381.36,713.08
+Uttar Pradesh,1974,Rice,329.29,5886.85,2580.08
+Punjab,1974,Wheat,460.63,7128.52,3308.22
+Punjab,1974,Rice,161.33,8243.29,1422.48
+Punjab,1974,Maize,75.87,9611.78,341.1
+Madhya Pradesh,1974,Soybean,179.11,4537.26,1615.15
+Madhya Pradesh,1974,Wheat,153.77,5278.19,614.24
+Madhya Pradesh,1974,Pulses,466.47,9171.28,4078.85
+Maharashtra,1974,Cotton,262.16,4209.21,2710.03
+Maharashtra,1974,Sugarcane,192.32,1328.81,1463.66
+Maharashtra,1974,Grapes,428.46,5528.79,2946.13
+West Bengal,1974,Rice,421.5,4448.78,3623.34
+West Bengal,1974,Jute,463.69,8702.67,2652.64
+West Bengal,1974,Tea,260.83,2529.41,1702.33
+Karnataka,1974,Coffee,396.74,8490.35,4245.11
+Karnataka,1974,Ragi,323.63,1492.7,2407.78
+Karnataka,1974,Maize,86.8,1169.47,756.52
+Andhra Pradesh,1974,Rice,187.33,8110.46,1417.53
+Andhra Pradesh,1974,Chillies,163.98,6825.11,1378.94
+Andhra Pradesh,1974,Tobacco,448.99,8637.09,2655.04
+Haryana,1974,Wheat,395.7,3113.77,994.2
+Haryana,1974,Rice,433.25,8146.33,3445.92
+Haryana,1974,Barley,442.73,2323.77,1618.33
+Gujarat,1974,Groundnut,332.98,8626.09,2419.14
+Gujarat,1974,Cotton,426.17,6950.37,1454.97
+Gujarat,1974,Cumin,206.33,8372.63,816.7
+Assam,1974,Tea,100.11,6257,766.71
+Assam,1974,Rice,124.53,8179.39,253.38
+Assam,1974,Mustard,191.73,9446.47,1080.12
+Uttar Pradesh,1975,Wheat,73.66,8239.96,695.5
+Uttar Pradesh,1975,Sugarcane,166.7,6163.24,743.77
+Uttar Pradesh,1975,Rice,319.51,1747.7,2520.73
+Punjab,1975,Wheat,447.79,1133.56,3399.5
+Punjab,1975,Rice,160.08,2874.31,1367.22
+Punjab,1975,Maize,73.67,2202.06,333.48
+Madhya Pradesh,1975,Soybean,178.1,5947.51,1643.36
+Madhya Pradesh,1975,Wheat,147.03,3995.69,626.09
+Madhya Pradesh,1975,Pulses,488.05,5390.78,4266.57
+Maharashtra,1975,Cotton,255.26,3027.19,2764.1
+Maharashtra,1975,Sugarcane,194.1,9773.29,1476.32
+Maharashtra,1975,Grapes,433.3,7755.96,2931.88
+West Bengal,1975,Rice,405.16,2111.44,3740.73
+West Bengal,1975,Jute,485.82,9994.29,2686.06
+West Bengal,1975,Tea,253.02,8393.09,1771.33
+Karnataka,1975,Coffee,387.5,7285.48,4037.64
+Karnataka,1975,Ragi,335.23,6678.55,2492.41
+Karnataka,1975,Maize,87.04,2150.39,782.95
+Andhra Pradesh,1975,Rice,180.92,6973.09,1406.47
+Andhra Pradesh,1975,Chillies,163.88,3675.94,1371.18
+Andhra Pradesh,1975,Tobacco,435.19,3509.77,2824.06
+Haryana,1975,Wheat,404.75,3932.38,1025.1
+Haryana,1975,Rice,413.05,2974.46,3336.42
+Haryana,1975,Barley,461.24,3999.59,1653.98
+Gujarat,1975,Groundnut,333.29,9024.12,2458.41
+Gujarat,1975,Cotton,436.96,5064.19,1402.42
+Gujarat,1975,Cumin,205.23,7204.34,776.79
+Assam,1975,Tea,103.82,6527.36,784.11
+Assam,1975,Rice,119.95,7519.2,241.02
+Assam,1975,Mustard,193.79,7967.12,1099.98
+Uttar Pradesh,1976,Wheat,75.58,1418.65,688.33
+Uttar Pradesh,1976,Sugarcane,170.61,9913.95,774.02
+Uttar Pradesh,1976,Rice,307.47,2526.86,2609.07
+Punjab,1976,Wheat,449.28,7204.51,3545.51
+Punjab,1976,Rice,164.3,1701.3,1394.98
+Punjab,1976,Maize,73.55,8175.42,335.6
+Madhya Pradesh,1976,Soybean,183.25,1321.69,1618.1
+Madhya Pradesh,1976,Wheat,150.63,1107.25,628.51
+Madhya Pradesh,1976,Pulses,508.75,7963.13,4162.18
+Maharashtra,1976,Cotton,247.35,8759.17,2642.24
+Maharashtra,1976,Sugarcane,202.09,2766.25,1408.01
+Maharashtra,1976,Grapes,445.27,2607.08,2848.65
+West Bengal,1976,Rice,417.44,8637.33,3599.86
+West Bengal,1976,Jute,476,8695.15,2701.98
+West Bengal,1976,Tea,258.69,6303.51,1831.64
+Karnataka,1976,Coffee,397.78,2007.45,3995.42
+Karnataka,1976,Ragi,338.89,4777.74,2579.43
+Karnataka,1976,Maize,83.44,6556.5,744.85
+Andhra Pradesh,1976,Rice,180.57,8729.23,1382.35
+Andhra Pradesh,1976,Chillies,167.37,6286.64,1409.27
+Andhra Pradesh,1976,Tobacco,415.92,8746.01,3058.56
+Haryana,1976,Wheat,420.96,2008.22,1076.18
+Haryana,1976,Rice,418.12,8281.08,3304.36
+Haryana,1976,Barley,468.89,6103.46,1595.62
+Gujarat,1976,Groundnut,319.76,5231.53,2473.34
+Gujarat,1976,Cotton,441.77,4343.36,1458.87
+Gujarat,1976,Cumin,208.57,4485.02,766.36
+Assam,1976,Tea,103.9,2043.16,762.69
+Assam,1976,Rice,122.83,9341.3,252.17
+Assam,1976,Mustard,200.88,4835.3,1079.62
+Uttar Pradesh,1977,Wheat,75.7,8437.85,691.17
+Uttar Pradesh,1977,Sugarcane,169.14,6176.7,737.53
+Uttar Pradesh,1977,Rice,311.66,2149.27,2703.54
+Punjab,1977,Wheat,468.79,1072.2,3660.09
+Punjab,1977,Rice,163.91,4600.6,1332.71
+Punjab,1977,Maize,71.88,1395.28,325.54
+Madhya Pradesh,1977,Soybean,177.75,7254.52,1572.76
+Madhya Pradesh,1977,Wheat,145.59,7910.41,618.63
+Madhya Pradesh,1977,Pulses,495.21,6319.36,4257.75
+Maharashtra,1977,Cotton,240.62,3223.38,2605.23
+Maharashtra,1977,Sugarcane,192.62,9771.2,1432.67
+Maharashtra,1977,Grapes,426.84,2104.61,2768.58
+West Bengal,1977,Rice,405.68,4278.46,3656.49
+West Bengal,1977,Jute,472.14,9555.37,2744.31
+West Bengal,1977,Tea,246.46,8622.25,1857.01
+Karnataka,1977,Coffee,408.85,4830.15,4145.07
+Karnataka,1977,Ragi,323.32,6772.76,2543.08
+Karnataka,1977,Maize,80.61,6260.67,717.66
+Andhra Pradesh,1977,Rice,178.06,1642.47,1361.75
+Andhra Pradesh,1977,Chillies,169.63,8985.49,1402.83
+Andhra Pradesh,1977,Tobacco,429.45,7040.66,3086.25
+Haryana,1977,Wheat,435.17,4847.33,1121.34
+Haryana,1977,Rice,399.37,5021.99,3346.11
+Haryana,1977,Barley,453.07,3923.56,1599.81
+Gujarat,1977,Groundnut,319.86,6959.43,2430.13
+Gujarat,1977,Cotton,431.37,5253.43,1527.09
+Gujarat,1977,Cumin,202.17,8493.19,777.43
+Assam,1977,Tea,104.5,2257.67,776.37
+Assam,1977,Rice,119.88,2967.04,240.53
+Assam,1977,Mustard,196.7,9365.38,1054.74
+Uttar Pradesh,1978,Wheat,74.61,3660.97,698.18
+Uttar Pradesh,1978,Sugarcane,164.13,6866.09,749.78
+Uttar Pradesh,1978,Rice,310.68,5958.52,2619.59
+Punjab,1978,Wheat,475.44,2889.57,3717.54
+Punjab,1978,Rice,165.13,3359.35,1308.86
+Punjab,1978,Maize,74.07,9708.55,340.17
+Madhya Pradesh,1978,Soybean,181.49,4824.93,1503.56
+Madhya Pradesh,1978,Wheat,143.2,7024.3,591
+Madhya Pradesh,1978,Pulses,498.54,1205.29,4118.08
+Maharashtra,1978,Cotton,232.71,1415.41,2518.5
+Maharashtra,1978,Sugarcane,183.28,5118.87,1393.92
+Maharashtra,1978,Grapes,407.76,1243,2835.23
+West Bengal,1978,Rice,413.3,9785.39,3779.85
+West Bengal,1978,Jute,469.2,8926.39,2875.19
+West Bengal,1978,Tea,256.01,6470.99,1837.93
+Karnataka,1978,Coffee,394.35,9687.58,4016.2
+Karnataka,1978,Ragi,309.24,3961.6,2641.34
+Karnataka,1978,Maize,83.55,5399.14,684.86
+Andhra Pradesh,1978,Rice,175.79,8586.54,1397.98
+Andhra Pradesh,1978,Chillies,166.24,1354.66,1370.47
+Andhra Pradesh,1978,Tobacco,415.04,9982.97,2967.55
+Haryana,1978,Wheat,448.87,9305.51,1066.85
+Haryana,1978,Rice,409.69,2755.81,3411.03
+Haryana,1978,Barley,472.96,8722.75,1522.52
+Gujarat,1978,Groundnut,312.72,8951.94,2377.82
+Gujarat,1978,Cotton,439.19,3987.01,1541.75
+Gujarat,1978,Cumin,196.9,9673.7,801.12
+Assam,1978,Tea,109.06,9788.81,791.18
+Assam,1978,Rice,120.99,5195.88,243.09
+Assam,1978,Mustard,198.44,1416.99,1094.82
+Uttar Pradesh,1979,Wheat,76.04,8437,687.62
+Uttar Pradesh,1979,Sugarcane,157.77,7088.93,759.65
+Uttar Pradesh,1979,Rice,295.83,9025.7,2531.93
+Punjab,1979,Wheat,490.42,3010.72,3894.1
+Punjab,1979,Rice,157.47,3287.38,1296.98
+Punjab,1979,Maize,71.05,6533.81,324.04
+Madhya Pradesh,1979,Soybean,183.88,8607.86,1574.14
+Madhya Pradesh,1979,Wheat,148.14,5693.96,572.61
+Madhya Pradesh,1979,Pulses,474.32,9797.02,4075.2
+Maharashtra,1979,Cotton,221.56,5417.6,2534.74
+Maharashtra,1979,Sugarcane,192.1,6349.79,1446.69
+Maharashtra,1979,Grapes,402.91,1077.44,2921.78
+West Bengal,1979,Rice,419.76,2862.85,3634.71
+West Bengal,1979,Jute,449.94,4790.24,2878.94
+West Bengal,1979,Tea,254.89,3511.93,1906.17
+Karnataka,1979,Coffee,392.9,6719.92,4011.12
+Karnataka,1979,Ragi,300.4,3205.81,2649.78
+Karnataka,1979,Maize,84.52,3534.22,668.91
+Andhra Pradesh,1979,Rice,184.49,2197.58,1376.12
+Andhra Pradesh,1979,Chillies,169.05,9171.06,1434.68
+Andhra Pradesh,1979,Tobacco,421.57,2666.77,3195.42
+Haryana,1979,Wheat,450.35,9495.89,1116.93
+Haryana,1979,Rice,409.98,6126.3,3549.94
+Haryana,1979,Barley,487.32,7487.52,1471.95
+Gujarat,1979,Groundnut,311.89,9656.89,2275.56
+Gujarat,1979,Cotton,425.64,3470.53,1544.24
+Gujarat,1979,Cumin,195.23,5131.93,773.75
+Assam,1979,Tea,114.44,5479.88,804.85
+Assam,1979,Rice,125.2,3470.99,240.1
+Assam,1979,Mustard,194.29,3046.63,1095.69
+Uttar Pradesh,1980,Wheat,79.49,5051.59,701.7
+Uttar Pradesh,1980,Sugarcane,157.42,9441.24,767.05
+Uttar Pradesh,1980,Rice,285.89,5818.03,2656.99
+Punjab,1980,Wheat,485.56,8727.76,4046.01
+Punjab,1980,Rice,154.08,3763.57,1259.42
+Punjab,1980,Maize,68.8,9371.27,317.01
+Madhya Pradesh,1980,Soybean,186.55,8092.7,1560.32
+Madhya Pradesh,1980,Wheat,145.5,3709.19,570.59
+Madhya Pradesh,1980,Pulses,491.5,4699.15,3923.49
+Maharashtra,1980,Cotton,222.15,2419.04,2541.64
+Maharashtra,1980,Sugarcane,189.67,6905.83,1420.14
+Maharashtra,1980,Grapes,423.04,2637.71,2958.13
+West Bengal,1980,Rice,417.84,3805.28,3675.16
+West Bengal,1980,Jute,460.89,2415.74,2955.79
+West Bengal,1980,Tea,250.99,8994.25,1966.42
+Karnataka,1980,Coffee,410.42,8578,4067.4
+Karnataka,1980,Ragi,286.07,9227.37,2638.48
+Karnataka,1980,Maize,86.3,2123.46,664.2
+Andhra Pradesh,1980,Rice,180.35,1775.87,1311.78
+Andhra Pradesh,1980,Chillies,174.06,5350.66,1459.28
+Andhra Pradesh,1980,Tobacco,439.73,8766.94,3113.52
+Haryana,1980,Wheat,460.26,1471.24,1130.15
+Haryana,1980,Rice,410.51,6075.75,3674.15
+Haryana,1980,Barley,509.1,6956.5,1503.38
+Gujarat,1980,Groundnut,298.03,6602.86,2297.8
+Gujarat,1980,Cotton,427.13,7550.46,1603.95
+Gujarat,1980,Cumin,193.8,1331.52,765.33
+Assam,1980,Tea,114.5,3224.55,776.48
+Assam,1980,Rice,121.98,9505.86,239.65
+Assam,1980,Mustard,197.57,5722.89,1134.35
+Uttar Pradesh,1981,Wheat,82.56,6455.46,686.16
+Uttar Pradesh,1981,Sugarcane,160.28,3583.3,738.28
+Uttar Pradesh,1981,Rice,290.09,2225.09,2594.31
+Punjab,1981,Wheat,502.55,7085.16,4043
+Punjab,1981,Rice,159.6,6701.13,1303.46
+Punjab,1981,Maize,67.34,9431.68,308.68
+Madhya Pradesh,1981,Soybean,187.26,5075.27,1500.27
+Madhya Pradesh,1981,Wheat,146.11,1315.65,581.3
+Madhya Pradesh,1981,Pulses,499.6,4019.61,3762.29
+Maharashtra,1981,Cotton,219.93,2524.81,2599.9
+Maharashtra,1981,Sugarcane,196.36,9428.07,1448.17
+Maharashtra,1981,Grapes,413.62,7677.2,2933.73
+West Bengal,1981,Rice,405.66,7144.24,3778.24
+West Bengal,1981,Jute,481.31,2524.85,2849.28
+West Bengal,1981,Tea,240.28,3992.4,1952.31
+Karnataka,1981,Coffee,395.95,9376.09,3932.09
+Karnataka,1981,Ragi,272.86,5578.66,2528.12
+Karnataka,1981,Maize,82.13,9474.88,686.8
+Andhra Pradesh,1981,Rice,172.62,9382.88,1317.52
+Andhra Pradesh,1981,Chillies,174.07,4910,1394.09
+Andhra Pradesh,1981,Tobacco,442.38,3994.19,3205.44
+Haryana,1981,Wheat,476.08,7831.42,1172.41
+Haryana,1981,Rice,412.87,3428.03,3496.32
+Haryana,1981,Barley,531.19,7460.36,1428.72
+Gujarat,1981,Groundnut,291.76,2167.08,2302.22
+Gujarat,1981,Cotton,442.26,7378.31,1631.61
+Gujarat,1981,Cumin,189.66,9460.44,788.25
+Assam,1981,Tea,113.14,9744.74,800.01
+Assam,1981,Rice,122.51,1330.2,247.53
+Assam,1981,Mustard,189.59,7336.2,1189.8
+Uttar Pradesh,1982,Wheat,79.27,2545.68,671.3
+Uttar Pradesh,1982,Sugarcane,167.35,7834.39,735.79
+Uttar Pradesh,1982,Rice,279.56,9422.42,2639.42
+Punjab,1982,Wheat,514.34,7821.09,4038.5
+Punjab,1982,Rice,167.04,5978.09,1272.9
+Punjab,1982,Maize,67.75,4019.69,315.27
+Madhya Pradesh,1982,Soybean,191.98,8798.73,1486.42
+Madhya Pradesh,1982,Wheat,141.97,3634.17,588.14
+Madhya Pradesh,1982,Pulses,484.91,3116.03,3731.05
+Maharashtra,1982,Cotton,208.95,1803.98,2561.95
+Maharashtra,1982,Sugarcane,198.52,9494.57,1410.98
+Maharashtra,1982,Grapes,413.86,9342.51,3075.28
+West Bengal,1982,Rice,392.46,5552.21,3781.94
+West Bengal,1982,Jute,496.92,7762.16,2905.93
+West Bengal,1982,Tea,229.74,7097.88,1996.3
+Karnataka,1982,Coffee,398.5,7973.73,3821.06
+Karnataka,1982,Ragi,275.18,1771.81,2622
+Karnataka,1982,Maize,79.36,2901.27,693.45
+Andhra Pradesh,1982,Rice,178.17,1775.06,1318
+Andhra Pradesh,1982,Chillies,171.39,7472.61,1366.74
+Andhra Pradesh,1982,Tobacco,459.67,5698.46,3224.28
+Haryana,1982,Wheat,466.16,1267.61,1186.82
+Haryana,1982,Rice,424.66,4958.5,3532.35
+Haryana,1982,Barley,551.68,1179.5,1393.43
+Gujarat,1982,Groundnut,299.52,3537.94,2336.13
+Gujarat,1982,Cotton,428.83,2568.05,1688.86
+Gujarat,1982,Cumin,190.49,3132.15,773.52
+Assam,1982,Tea,116.42,2925.47,788.44
+Assam,1982,Rice,120.71,1543.11,243.53
+Assam,1982,Mustard,180.25,8922.92,1231.26
+Uttar Pradesh,1983,Wheat,76.61,8967.41,695.92
+Uttar Pradesh,1983,Sugarcane,165.96,6619.37,700.06
+Uttar Pradesh,1983,Rice,283.23,9043.17,2644.9
+Punjab,1983,Wheat,519.43,6536.5,3907.1
+Punjab,1983,Rice,161.25,7510.73,1230.04
+Punjab,1983,Maize,69.2,7286.32,327.02
+Madhya Pradesh,1983,Soybean,192.01,8647.25,1506.66
+Madhya Pradesh,1983,Wheat,148.68,5271.45,584.27
+Madhya Pradesh,1983,Pulses,494.65,1805.31,3622.08
+Maharashtra,1983,Cotton,219.09,1673.44,2624.82
+Maharashtra,1983,Sugarcane,195.43,5030.12,1381.83
+Maharashtra,1983,Grapes,419.63,7916.06,3196.34
+West Bengal,1983,Rice,411.18,4318.01,3662.49
+West Bengal,1983,Jute,479.94,8285.46,2909.27
+West Bengal,1983,Tea,226.63,7217.65,2056.52
+Karnataka,1983,Coffee,384.95,3497.39,3841.99
+Karnataka,1983,Ragi,274.48,7905.51,2660.12
+Karnataka,1983,Maize,76.48,3119.03,678.09
+Andhra Pradesh,1983,Rice,171.27,9102.62,1366.67
+Andhra Pradesh,1983,Chillies,171.21,6561.75,1361.23
+Andhra Pradesh,1983,Tobacco,446.21,8655.07,3189.5
+Haryana,1983,Wheat,463.08,6898.11,1236.54
+Haryana,1983,Rice,423.81,5917.84,3368.05
+Haryana,1983,Barley,530.78,9280.25,1409
+Gujarat,1983,Groundnut,301.54,2785.42,2350.43
+Gujarat,1983,Cotton,441.49,4977.18,1754.51
+Gujarat,1983,Cumin,199.99,6143.05,768.28
+Assam,1983,Tea,121.99,6905.56,774.6
+Assam,1983,Rice,116.99,4048.34,255.67
+Assam,1983,Mustard,176.57,8462.26,1209.28
+Uttar Pradesh,1984,Wheat,76.69,5917.84,697.57
+Uttar Pradesh,1984,Sugarcane,165.68,5004.45,670.89
+Uttar Pradesh,1984,Rice,287.48,5075.82,2676.92
+Punjab,1984,Wheat,519.76,1394.86,3779.48
+Punjab,1984,Rice,153.83,2071.46,1254.16
+Punjab,1984,Maize,68.6,2734.43,319.84
+Madhya Pradesh,1984,Soybean,185.62,6588.29,1573.78
+Madhya Pradesh,1984,Wheat,149.75,5694.5,564.52
+Madhya Pradesh,1984,Pulses,491.57,5371.52,3468.6
+Maharashtra,1984,Cotton,227.27,7186.97,2693.4
+Maharashtra,1984,Sugarcane,204.84,1349.91,1391.31
+Maharashtra,1984,Grapes,410.74,6747.45,3102.79
+West Bengal,1984,Rice,421.03,5208.58,3637.96
+West Bengal,1984,Jute,496.14,4211.29,2967.65
+West Bengal,1984,Tea,230.72,6795.06,2139.88
+Karnataka,1984,Coffee,372.27,8115.93,3663.49
+Karnataka,1984,Ragi,270.01,7228.3,2709.8
+Karnataka,1984,Maize,76.52,9147.14,647.27
+Andhra Pradesh,1984,Rice,163.06,5429.18,1323.65
+Andhra Pradesh,1984,Chillies,166.85,1562.85,1326.21
+Andhra Pradesh,1984,Tobacco,458.51,6200.15,3233.08
+Haryana,1984,Wheat,485.83,9515.91,1265.75
+Haryana,1984,Rice,409.52,4326.27,3277.13
+Haryana,1984,Barley,505.38,8868.64,1447.48
+Gujarat,1984,Groundnut,295.38,1034.72,2342.28
+Gujarat,1984,Cotton,434.01,9845.44,1691.04
+Gujarat,1984,Cumin,200.29,9380.71,731.67
+Assam,1984,Tea,123.6,6728.01,806.03
+Assam,1984,Rice,115.49,7396.72,257.27
+Assam,1984,Mustard,178.71,1148.37,1266.49
+Uttar Pradesh,1985,Wheat,76.63,8077.38,710.76
+Uttar Pradesh,1985,Sugarcane,166.8,3018.88,645.77
+Uttar Pradesh,1985,Rice,281.5,1273.37,2615.72
+Punjab,1985,Wheat,506.23,7375.69,3730
+Punjab,1985,Rice,161.19,7989.65,1311.91
+Punjab,1985,Maize,66.1,2913.62,316.54
+Madhya Pradesh,1985,Soybean,194.38,3373.88,1641
+Madhya Pradesh,1985,Wheat,142.9,2191.38,574.69
+Madhya Pradesh,1985,Pulses,511.07,5065.05,3500.79
+Maharashtra,1985,Cotton,238.27,3993.98,2714.41
+Maharashtra,1985,Sugarcane,198.46,7919.38,1419
+Maharashtra,1985,Grapes,392.35,9128.13,3109.42
+West Bengal,1985,Rice,401.87,8609.71,3532
+West Bengal,1985,Jute,488.58,8173.79,2855.25
+West Bengal,1985,Tea,238.19,6801.06,2240.57
+Karnataka,1985,Coffee,356.68,9632,3654.66
+Karnataka,1985,Ragi,271.89,3477.05,2659.96
+Karnataka,1985,Maize,76.98,8072.39,622.58
+Andhra Pradesh,1985,Rice,162.93,9684.76,1360.96
+Andhra Pradesh,1985,Chillies,174.18,1144.28,1300.33
+Andhra Pradesh,1985,Tobacco,439.09,1346.98,3269.78
+Haryana,1985,Wheat,494.4,7172.14,1215.43
+Haryana,1985,Rice,395.28,4243.04,3374.2
+Haryana,1985,Barley,501.51,4403.79,1474.85
+Gujarat,1985,Groundnut,304.55,6386.07,2264.45
+Gujarat,1985,Cotton,441.41,4881.64,1695.91
+Gujarat,1985,Cumin,202.13,3656.24,720.23
+Assam,1985,Tea,125.07,2146.39,807.43
+Assam,1985,Rice,113.08,6268.57,256.86
+Assam,1985,Mustard,185.5,5220.01,1205.44
+Uttar Pradesh,1986,Wheat,73.37,9640.33,694.7
+Uttar Pradesh,1986,Sugarcane,171.92,9661.91,635.91
+Uttar Pradesh,1986,Rice,272.97,9857.4,2528.34
+Punjab,1986,Wheat,506.05,3132.74,3565.92
+Punjab,1986,Rice,160.77,5853.18,1363.98
+Punjab,1986,Maize,68.3,6064.3,325.64
+Madhya Pradesh,1986,Soybean,195.11,5026.74,1700.63
+Madhya Pradesh,1986,Wheat,147.42,8195.91,571.23
+Madhya Pradesh,1986,Pulses,526.71,3977.29,3430.62
+Maharashtra,1986,Cotton,227.39,7904.36,2747.33
+Maharashtra,1986,Sugarcane,199.29,6413.13,1382.17
+Maharashtra,1986,Grapes,379.47,9815.03,3074.95
+West Bengal,1986,Rice,410.38,3313.04,3543.83
+West Bengal,1986,Jute,478.66,2401.29,2869.71
+West Bengal,1986,Tea,237.47,8677.12,2161.27
+Karnataka,1986,Coffee,373.88,3564.35,3679.53
+Karnataka,1986,Ragi,285.37,9471.83,2679.61
+Karnataka,1986,Maize,79.19,5120.26,653.69
+Andhra Pradesh,1986,Rice,158.06,5295.9,1346.53
+Andhra Pradesh,1986,Chillies,178.27,9926.02,1302.54
+Andhra Pradesh,1986,Tobacco,453.35,9855.9,3160.93
+Haryana,1986,Wheat,485.95,6467.41,1275.53
+Haryana,1986,Rice,395.74,1972.34,3531.14
+Haryana,1986,Barley,496.6,1448.58,1482.47
+Gujarat,1986,Groundnut,308.02,1395.69,2183.57
+Gujarat,1986,Cotton,444.04,1640.57,1766.32
+Gujarat,1986,Cumin,206.68,8340.62,729.06
+Assam,1986,Tea,121.89,8198.67,840.49
+Assam,1986,Rice,113.23,5985.32,254.64
+Assam,1986,Mustard,188.95,4564.66,1252.87
+Uttar Pradesh,1987,Wheat,75.68,5767.31,679.76
+Uttar Pradesh,1987,Sugarcane,174.92,8665.39,647.47
+Uttar Pradesh,1987,Rice,285.23,7928.23,2449.04
+Punjab,1987,Wheat,502.52,4175.36,3685.96
+Punjab,1987,Rice,158.3,4986.27,1353.03
+Punjab,1987,Maize,69.16,5610.98,319.29
+Madhya Pradesh,1987,Soybean,185.46,8630.14,1691.33
+Madhya Pradesh,1987,Wheat,147.7,1438.73,545.87
+Madhya Pradesh,1987,Pulses,527.98,9874.16,3348.99
+Maharashtra,1987,Cotton,233.14,1337.38,2794.15
+Maharashtra,1987,Sugarcane,206.12,2845.12,1447.59
+Maharashtra,1987,Grapes,389.93,1501.47,3126.3
+West Bengal,1987,Rice,392.49,9684.47,3602.66
+West Bengal,1987,Jute,459.29,7249.44,2777.62
+West Bengal,1987,Tea,248.2,8813.28,2208.45
+Karnataka,1987,Coffee,381.62,3405.65,3642.14
+Karnataka,1987,Ragi,276.65,3610.1,2606.37
+Karnataka,1987,Maize,80.09,4532.03,670.07
+Andhra Pradesh,1987,Rice,152.18,7190.01,1311.66
+Andhra Pradesh,1987,Chillies,177.13,1829.65,1289.17
+Andhra Pradesh,1987,Tobacco,458.2,4539.72,3080.02
+Haryana,1987,Wheat,504.85,1307.35,1289.79
+Haryana,1987,Rice,380.07,6732.99,3475.34
+Haryana,1987,Barley,482.99,7697.29,1485.8
+Gujarat,1987,Groundnut,309.27,4214.01,2149.07
+Gujarat,1987,Cotton,450.44,1273.48,1695.46
+Gujarat,1987,Cumin,197.81,5693.54,700.85
+Assam,1987,Tea,118.92,3845.44,804.7
+Assam,1987,Rice,112.12,1083.79,266.48
+Assam,1987,Mustard,184.57,9272.18,1202.12
+Uttar Pradesh,1988,Wheat,75.33,4145.21,678.18
+Uttar Pradesh,1988,Sugarcane,182.33,6471.32,624.92
+Uttar Pradesh,1988,Rice,293.53,8342.3,2358.56
+Punjab,1988,Wheat,489.08,3315.57,3851.07
+Punjab,1988,Rice,159.74,7665.57,1338.95
+Punjab,1988,Maize,66.35,2329.4,317.5
+Madhya Pradesh,1988,Soybean,181.93,3560.68,1636.54
+Madhya Pradesh,1988,Wheat,146.41,9992.39,522.92
+Madhya Pradesh,1988,Pulses,503.58,4213.38,3426.23
+Maharashtra,1988,Cotton,239.97,8946.1,2660.87
+Maharashtra,1988,Sugarcane,198.36,6846.19,1517.95
+Maharashtra,1988,Grapes,402.65,4110.64,3128.93
+West Bengal,1988,Rice,402.71,6000.46,3460.22
+West Bengal,1988,Jute,446.7,6459.41,2894.35
+West Bengal,1988,Tea,246.18,6517.86,2284.84
+Karnataka,1988,Coffee,369.55,3481.08,3510.92
+Karnataka,1988,Ragi,284.5,7817.16,2583.38
+Karnataka,1988,Maize,76.46,2917.47,691.85
+Andhra Pradesh,1988,Rice,152.01,2502.15,1291.01
+Andhra Pradesh,1988,Chillies,174.14,3811.43,1274.67
+Andhra Pradesh,1988,Tobacco,464.7,3940.44,3131.97
+Haryana,1988,Wheat,500.41,4557.76,1272.25
+Haryana,1988,Rice,379.82,3182.45,3556.66
+Haryana,1988,Barley,494.06,2943.11,1475.76
+Gujarat,1988,Groundnut,295.11,3367.87,2231.21
+Gujarat,1988,Cotton,442.23,6934.22,1655.77
+Gujarat,1988,Cumin,197.54,3922.99,696.42
+Assam,1988,Tea,114.59,5555.75,802.99
+Assam,1988,Rice,111.97,1180.31,254.13
+Assam,1988,Mustard,188.78,9478.68,1145.96
+Uttar Pradesh,1989,Wheat,73.52,6786.73,712.02
+Uttar Pradesh,1989,Sugarcane,188.82,1789.81,614.16
+Uttar Pradesh,1989,Rice,300.53,2842.13,2468.26
+Punjab,1989,Wheat,503.47,2983.81,3793.98
+Punjab,1989,Rice,158.21,1825.59,1280.04
+Punjab,1989,Maize,68.85,3058.2,316.04
+Madhya Pradesh,1989,Soybean,190.22,2451.56,1710.66
+Madhya Pradesh,1989,Wheat,140.62,3652.66,514.36
+Madhya Pradesh,1989,Pulses,495.45,3227.26,3315.25
+Maharashtra,1989,Cotton,233.1,2580.62,2686.44
+Maharashtra,1989,Sugarcane,204,8094.28,1551.19
+Maharashtra,1989,Grapes,413.77,2236.53,3235.22
+West Bengal,1989,Rice,390.14,8373.61,3460.07
+West Bengal,1989,Jute,435.81,8878.94,2864.37
+West Bengal,1989,Tea,254.66,3759.51,2245.53
+Karnataka,1989,Coffee,363.63,9027.43,3520.79
+Karnataka,1989,Ragi,284.34,7311.98,2595.8
+Karnataka,1989,Maize,79.73,9118.55,677.29
+Andhra Pradesh,1989,Rice,154.77,6379.94,1301.41
+Andhra Pradesh,1989,Chillies,175.59,1173.33,1255.5
+Andhra Pradesh,1989,Tobacco,449.51,9786.63,3375.4
+Haryana,1989,Wheat,504.23,6956.89,1320.05
+Haryana,1989,Rice,371.88,4638.43,3662.1
+Haryana,1989,Barley,494.62,3407.76,1486.68
+Gujarat,1989,Groundnut,286.09,5102.09,2267.04
+Gujarat,1989,Cotton,428.22,7460.93,1592.23
+Gujarat,1989,Cumin,196,2470.02,677.58
+Assam,1989,Tea,114.4,1314.03,837.65
+Assam,1989,Rice,109.01,1621.43,245.04
+Assam,1989,Mustard,198,6097.42,1094.73
+Uttar Pradesh,1990,Wheat,75.13,7915.06,716.56
+Uttar Pradesh,1990,Sugarcane,194.47,1029.51,611.41
+Uttar Pradesh,1990,Rice,294.86,9535.49,2567.4
+Punjab,1990,Wheat,525.69,4776.73,3731.38
+Punjab,1990,Rice,163.93,6303.74,1237
+Punjab,1990,Maize,66.38,9446.73,322.51
+Madhya Pradesh,1990,Soybean,193.51,9146.22,1712.19
+Madhya Pradesh,1990,Wheat,145.74,2239.75,507.24
+Madhya Pradesh,1990,Pulses,497.41,7344.72,3473.18
+Maharashtra,1990,Cotton,235.91,3113.41,2807.38
+Maharashtra,1990,Sugarcane,203.94,3503.76,1475.04
+Maharashtra,1990,Grapes,393.89,6889.81,3310.34
+West Bengal,1990,Rice,398.45,9452.72,3328.3
+West Bengal,1990,Jute,454.16,5115.37,2738.45
+West Bengal,1990,Tea,249.59,6488.18,2299.33
+Karnataka,1990,Coffee,353.5,2515.55,3381.86
+Karnataka,1990,Ragi,279.31,6374.04,2492.93
+Karnataka,1990,Maize,82.86,6942.26,670.13
+Andhra Pradesh,1990,Rice,162.12,9384.62,1276.39
+Andhra Pradesh,1990,Chillies,183.9,8821.1,1239.94
+Andhra Pradesh,1990,Tobacco,428.06,9588.69,3302.87
+Haryana,1990,Wheat,494.76,1435.68,1323.16
+Haryana,1990,Rice,375.67,6658.13,3774.99
+Haryana,1990,Barley,503.64,8201.26,1432.12
+Gujarat,1990,Groundnut,297.13,3971.25,2375.3
+Gujarat,1990,Cotton,436.94,1642.14,1528.58
+Gujarat,1990,Cumin,193.7,7824.85,658.91
+Assam,1990,Tea,116.89,1814.9,849.68
+Assam,1990,Rice,114.4,1936.43,248.64
+Assam,1990,Mustard,199.53,5751.76,1058.38
+Uttar Pradesh,1991,Wheat,74.54,9705.46,709.55
+Uttar Pradesh,1991,Sugarcane,201.39,9711.53,583.95
+Uttar Pradesh,1991,Rice,286.58,4735.15,2643.74
+Punjab,1991,Wheat,511.83,1124.96,3765.54
+Punjab,1991,Rice,164.89,1649.87,1251.37
+Punjab,1991,Maize,68.03,9477.09,327.19
+Madhya Pradesh,1991,Soybean,189.31,2476.25,1723.55
+Madhya Pradesh,1991,Wheat,152.48,1922.35,512.66
+Madhya Pradesh,1991,Pulses,516.64,9113.12,3330.24
+Maharashtra,1991,Cotton,231.96,4630.46,2684.17
+Maharashtra,1991,Sugarcane,201.54,4687.94,1434.03
+Maharashtra,1991,Grapes,391.55,4264.45,3467.64
+West Bengal,1991,Rice,381.13,3712.68,3259.26
+West Bengal,1991,Jute,434.53,9716.23,2801.85
+West Bengal,1991,Tea,237.96,7614.98,2296.34
+Karnataka,1991,Coffee,342.74,1993.29,3455.82
+Karnataka,1991,Ragi,278.61,5226.21,2458.7
+Karnataka,1991,Maize,79.36,5180.62,678.38
+Andhra Pradesh,1991,Rice,168.52,3267.52,1229.66
+Andhra Pradesh,1991,Chillies,187.53,7960.43,1251.45
+Andhra Pradesh,1991,Tobacco,436.7,2366.62,3328.51
+Haryana,1991,Wheat,470.79,6569.52,1353.47
+Haryana,1991,Rice,367.73,5145.5,3796.6
+Haryana,1991,Barley,505.65,3479.76,1450.63
+Gujarat,1991,Groundnut,301.74,3950.01,2320.75
+Gujarat,1991,Cotton,446.65,1488.37,1493.92
+Gujarat,1991,Cumin,200.21,1808.97,630.45
+Assam,1991,Tea,114.13,9143.09,823.43
+Assam,1991,Rice,118.62,9399.6,246.86
+Assam,1991,Mustard,194.78,1696.2,1055.36
+Uttar Pradesh,1992,Wheat,72,4437.59,719.15
+Uttar Pradesh,1992,Sugarcane,201.27,4289.69,574.29
+Uttar Pradesh,1992,Rice,279.29,8609.78,2533.82
+Punjab,1992,Wheat,492.11,6096.5,3762.68
+Punjab,1992,Rice,159.35,8885.67,1217.35
+Punjab,1992,Maize,69.06,6172.16,335.92
+Madhya Pradesh,1992,Soybean,186.64,7108.87,1772.94
+Madhya Pradesh,1992,Wheat,148.46,7243.15,507.95
+Madhya Pradesh,1992,Pulses,507.79,9715.41,3245.56
+Maharashtra,1992,Cotton,230.41,1785.79,2590.08
+Maharashtra,1992,Sugarcane,205.18,3018.24,1423.1
+Maharashtra,1992,Grapes,402.8,5218.15,3499.18
+West Bengal,1992,Rice,393.9,5844.34,3308.41
+West Bengal,1992,Jute,418.25,7294.52,2827.48
+West Bengal,1992,Tea,241.28,5514.56,2183.32
+Karnataka,1992,Coffee,347.08,7819.37,3369.51
+Karnataka,1992,Ragi,274.2,5225.18,2403.61
+Karnataka,1992,Maize,77.68,6710.61,672.82
+Andhra Pradesh,1992,Rice,172.27,1599.96,1262.17
+Andhra Pradesh,1992,Chillies,184.28,7111.68,1261.74
+Andhra Pradesh,1992,Tobacco,439.11,5552.7,3140.28
+Haryana,1992,Wheat,459.04,7024.11,1296.55
+Haryana,1992,Rice,382.93,1387.19,3732.99
+Haryana,1992,Barley,527.47,2403.82,1388.71
+Gujarat,1992,Groundnut,306.82,4131.96,2307.36
+Gujarat,1992,Cotton,455.74,3358.78,1525.71
+Gujarat,1992,Cumin,198.48,6541.24,656.71
+Assam,1992,Tea,117.08,2000.07,830.06
+Assam,1992,Rice,118.74,2858.26,256.56
+Assam,1992,Mustard,194.38,5761.28,1079.33
+Uttar Pradesh,1993,Wheat,71.89,6422.54,747.83
+Uttar Pradesh,1993,Sugarcane,191.69,3706.1,600.95
+Uttar Pradesh,1993,Rice,284.51,5842.36,2440.79
+Punjab,1993,Wheat,488.88,3079.92,3895
+Punjab,1993,Rice,161.86,1723.78,1223.25
+Punjab,1993,Maize,69.14,4313.74,336.1
+Madhya Pradesh,1993,Soybean,192.39,2136.91,1793.17
+Madhya Pradesh,1993,Wheat,155.64,4495.61,493.09
+Madhya Pradesh,1993,Pulses,488.95,2774.86,3120.26
+Maharashtra,1993,Cotton,224.66,1479.64,2713.15
+Maharashtra,1993,Sugarcane,204.66,1233.59,1457.7
+Maharashtra,1993,Grapes,403.97,3598.36,3542.78
+West Bengal,1993,Rice,398.42,6315.87,3407.71
+West Bengal,1993,Jute,407.44,5385.15,2827.77
+West Bengal,1993,Tea,243.7,3033.31,2208.77
+Karnataka,1993,Coffee,351.72,4919.91,3464.29
+Karnataka,1993,Ragi,260.96,5403.32,2318.78
+Karnataka,1993,Maize,74.06,2013.21,673.24
+Andhra Pradesh,1993,Rice,177.55,4584.75,1258.15
+Andhra Pradesh,1993,Chillies,187.29,2002.75,1285.37
+Andhra Pradesh,1993,Tobacco,435.77,4846.83,3051.07
+Haryana,1993,Wheat,438.75,6556.11,1339.69
+Haryana,1993,Rice,376.84,1959.47,3906.54
+Haryana,1993,Barley,535.27,1651.4,1370.13
+Gujarat,1993,Groundnut,297.17,9335.87,2316.15
+Gujarat,1993,Cotton,463.21,6823.51,1487.33
+Gujarat,1993,Cumin,192.03,4665.89,685.85
+Assam,1993,Tea,118.8,3234.51,808.46
+Assam,1993,Rice,123.37,3199.85,253.95
+Assam,1993,Mustard,191.29,8753.11,1040.18
+Uttar Pradesh,1994,Wheat,69.3,5039.43,719.21
+Uttar Pradesh,1994,Sugarcane,186.88,6061.64,588.72
+Uttar Pradesh,1994,Rice,281.46,9924.03,2423.28
+Punjab,1994,Wheat,485.1,5577.37,3859.59
+Punjab,1994,Rice,161.56,8317.78,1213.58
+Punjab,1994,Maize,66.82,9869.4,327.13
+Madhya Pradesh,1994,Soybean,190.15,4439.7,1772.98
+Madhya Pradesh,1994,Wheat,158.41,6024.71,491.28
+Madhya Pradesh,1994,Pulses,476.57,3818.76,3115.9
+Maharashtra,1994,Cotton,214.73,4613.23,2676.32
+Maharashtra,1994,Sugarcane,195.51,7915.69,1461.08
+Maharashtra,1994,Grapes,389.85,2122.96,3708.55
+West Bengal,1994,Rice,387.94,9755.86,3320.85
+West Bengal,1994,Jute,390.18,9433.14,2757.65
+West Bengal,1994,Tea,234.89,4693.75,2098.96
+Karnataka,1994,Coffee,358.61,6430.08,3612.48
+Karnataka,1994,Ragi,257.84,7598.98,2279.12
+Karnataka,1994,Maize,74.15,7028.54,679.26
+Andhra Pradesh,1994,Rice,169.98,9512.22,1309.76
+Andhra Pradesh,1994,Chillies,195.15,4122.61,1314.94
+Andhra Pradesh,1994,Tobacco,452.19,2628.75,3013.61
+Haryana,1994,Wheat,428.27,7291.11,1279.3
+Haryana,1994,Rice,378.83,5086.77,4038.52
+Haryana,1994,Barley,529.52,7188.39,1307.51
+Gujarat,1994,Groundnut,285.32,3730.94,2219.01
+Gujarat,1994,Cotton,445.34,1089.66,1558.97
+Gujarat,1994,Cumin,196.72,3458.85,712.33
+Assam,1994,Tea,119.24,2198.4,792.12
+Assam,1994,Rice,120.56,5415.35,247.53
+Assam,1994,Mustard,187.8,8848.86,1014.17
+Uttar Pradesh,1995,Wheat,66.61,2424.65,703.41
+Uttar Pradesh,1995,Sugarcane,194.5,2640.85,592.65
+Uttar Pradesh,1995,Rice,269.25,5983.28,2324.38
+Punjab,1995,Wheat,504.72,5207.88,3826.67
+Punjab,1995,Rice,165.02,1601.89,1218.1
+Punjab,1995,Maize,64.4,5351.93,327.72
+Madhya Pradesh,1995,Soybean,193.43,3751.12,1847.55
+Madhya Pradesh,1995,Wheat,154.5,2835.25,504.26
+Madhya Pradesh,1995,Pulses,499.14,7688.28,3217.86
+Maharashtra,1995,Cotton,218.08,1185.71,2627.6
+Maharashtra,1995,Sugarcane,191.62,5171.49,1524.7
+Maharashtra,1995,Grapes,396.82,1999.6,3772.17
+West Bengal,1995,Rice,391.58,3167.64,3181.42
+West Bengal,1995,Jute,384.82,6782.98,2777.87
+West Bengal,1995,Tea,224.88,6614.45,2048.82
+Karnataka,1995,Coffee,361.89,4901.12,3649.02
+Karnataka,1995,Ragi,268,8706.62,2215.62
+Karnataka,1995,Maize,71.56,9390.75,685.4
+Andhra Pradesh,1995,Rice,171.18,7829.27,1366.2
+Andhra Pradesh,1995,Chillies,191.81,6709.42,1324.12
+Andhra Pradesh,1995,Tobacco,466.1,5234.59,3010.63
+Haryana,1995,Wheat,423.89,7063.04,1246.17
+Haryana,1995,Rice,389.64,4203.36,4113.31
+Haryana,1995,Barley,541.07,8022.16,1306.05
+Gujarat,1995,Groundnut,298.84,8650.5,2235.89
+Gujarat,1995,Cotton,443.62,5071,1501.8
+Gujarat,1995,Cumin,204.28,5941.92,703.47
+Assam,1995,Tea,122.06,1745.21,766.23
+Assam,1995,Rice,121.7,6927.93,245.97
+Assam,1995,Mustard,181.26,7132.06,973.05
+Uttar Pradesh,1996,Wheat,65.97,5795.22,714.05
+Uttar Pradesh,1996,Sugarcane,198.97,8923.07,605.56
+Uttar Pradesh,1996,Rice,261.72,4778.14,2270.38
+Punjab,1996,Wheat,483.35,8106.66,3723.38
+Punjab,1996,Rice,159.54,4552.18,1257.66
+Punjab,1996,Maize,63.26,6746.95,324.48
+Madhya Pradesh,1996,Soybean,185.8,6852.78,1870.25
+Madhya Pradesh,1996,Wheat,162.09,7668.77,501.56
+Madhya Pradesh,1996,Pulses,513.77,5286.51,3287.6
+Maharashtra,1996,Cotton,207.66,4353.21,2565.82
+Maharashtra,1996,Sugarcane,190.56,1494.77,1594.4
+Maharashtra,1996,Grapes,390.33,6569.73,3835.95
+West Bengal,1996,Rice,381.97,7860.99,3175.87
+West Bengal,1996,Jute,378.92,8524.3,2676.74
+West Bengal,1996,Tea,218.13,1397.13,1960.28
+Karnataka,1996,Coffee,348.33,1578.85,3720.32
+Karnataka,1996,Ragi,269.48,8594.33,2175.4
+Karnataka,1996,Maize,71.26,1008.94,687.81
+Andhra Pradesh,1996,Rice,173.36,7389.33,1375.13
+Andhra Pradesh,1996,Chillies,196.6,1369.29,1286.33
+Andhra Pradesh,1996,Tobacco,451.57,7822.41,3941.48
+Haryana,1996,Wheat,441.78,7730.34,1234.94
+Haryana,1996,Rice,372.73,2132.21,3982.16
+Haryana,1996,Barley,554.36,5365.35,1282.91
+Gujarat,1996,Groundnut,301.5,7936.86,2295.6
+Gujarat,1996,Cotton,447.93,4386.57,1477.77
+Gujarat,1996,Cumin,196.35,1675.95,714.79
+Assam,1996,Tea,120.03,7626.37,780.44
+Assam,1996,Rice,126.58,4563.63,243.31
+Assam,1996,Mustard,183.38,5014.29,934.2
+Uttar Pradesh,1997,Wheat,68.8,4133.31,721.52
+Uttar Pradesh,1997,Sugarcane,207.15,9782.35,585.25
+Uttar Pradesh,1997,Rice,259.72,6784.22,2349.42
+Punjab,1997,Wheat,468.65,9917.47,3569.91
+Punjab,1997,Rice,167.43,7317.81,1290.49
+Punjab,1997,Maize,60.25,5949.65,326.2
+Madhya Pradesh,1997,Soybean,182.67,9492.85,1918.43
+Madhya Pradesh,1997,Wheat,168.87,6763.91,481.42
+Madhya Pradesh,1997,Pulses,491.81,4254.71,3175.58
+Maharashtra,1997,Cotton,201.27,5008.39,2484.94
+Maharashtra,1997,Sugarcane,186.61,9338.31,1626.57
+Maharashtra,1997,Grapes,408.01,7247.88,3709.95
+West Bengal,1997,Rice,382.33,4093.45,3026.79
+West Bengal,1997,Jute,368.38,9117.31,2730.1
+West Bengal,1997,Tea,216.25,6133.63,1921.38
+Karnataka,1997,Coffee,336.29,3702.64,3825.48
+Karnataka,1997,Ragi,278.01,3607.37,2204.01
+Karnataka,1997,Maize,72.8,1267.78,668.71
+Andhra Pradesh,1997,Rice,169.88,4878.58,1422.26
+Andhra Pradesh,1997,Chillies,206.09,9586.31,1304.92
+Andhra Pradesh,1997,Tobacco,466.95,6202.99,2970.84
+Haryana,1997,Wheat,441.68,2753.06,1292.95
+Haryana,1997,Rice,374.33,4329.44,4056.26
+Haryana,1997,Barley,538.54,7929.96,1299.19
+Gujarat,1997,Groundnut,293.1,8479.66,2256.71
+Gujarat,1997,Cotton,460.68,5158.23,1534.93
+Gujarat,1997,Cumin,192.8,5798.06,713.14
+Assam,1997,Tea,123.34,8306.13,764.64
+Assam,1997,Rice,129.08,1455.68,239.44
+Assam,1997,Mustard,174.76,7248.6,952.63
+Uttar Pradesh,1998,Wheat,70.53,1869.53,716.38
+Uttar Pradesh,1998,Sugarcane,211.01,6180.71,613.79
+Uttar Pradesh,1998,Rice,255.88,3238.45,2430.41
+Punjab,1998,Wheat,451.13,9605.75,3626.34
+Punjab,1998,Rice,163.81,9312.72,1314.64
+Punjab,1998,Maize,58.6,7470.72,311.93
+Madhya Pradesh,1998,Soybean,180.86,3593.73,1843.24
+Madhya Pradesh,1998,Wheat,161.7,8393.64,496.3
+Madhya Pradesh,1998,Pulses,473.4,5096.25,3220.79
+Maharashtra,1998,Cotton,197.22,5087.72,2458.11
+Maharashtra,1998,Sugarcane,186.9,2448.35,1659.16
+Maharashtra,1998,Grapes,420.34,5420.69,3658.58
+West Bengal,1998,Rice,388.65,7796.06,3006.6
+West Bengal,1998,Jute,350.91,5921.34,2756.11
+West Bengal,1998,Tea,214.29,6021.95,1869.41
+Karnataka,1998,Coffee,349.58,2882.51,3763.16
+Karnataka,1998,Ragi,282.83,1707.7,2133.86
+Karnataka,1998,Maize,72.07,7092.54,680.08
+Andhra Pradesh,1998,Rice,165.69,7993.42,1365.74
+Andhra Pradesh,1998,Chillies,200.45,1486.59,1247.41
+Andhra Pradesh,1998,Tobacco,477.88,3679.78,3152.16
+Haryana,1998,Wheat,444.85,6808.66,1271.98
+Haryana,1998,Rice,367.97,7637.6,4160.83
+Haryana,1998,Barley,536.57,9271.75,1346.57
+Gujarat,1998,Groundnut,284.9,4663.99,2368.93
+Gujarat,1998,Cotton,470.56,2547.41,1583.46
+Gujarat,1998,Cumin,185.34,5045.67,734.88
+Assam,1998,Tea,127.72,6013.9,797.1
+Assam,1998,Rice,130.27,2841.77,228.63
+Assam,1998,Mustard,182.19,2427.23,943.34
+Uttar Pradesh,1999,Wheat,67.35,6275.58,692.95
+Uttar Pradesh,1999,Sugarcane,217.22,3959.11,616.38
+Uttar Pradesh,1999,Rice,259.5,3410.29,2376.55
+Punjab,1999,Wheat,430.53,4906.47,3468.64
+Punjab,1999,Rice,164.89,7116.26,1277.63
+Punjab,1999,Maize,57.36,1981.95,314.88
+Madhya Pradesh,1999,Soybean,188.19,9104.54,1874.96
+Madhya Pradesh,1999,Wheat,159.46,5846.48,483.97
+Madhya Pradesh,1999,Pulses,467.69,9310.2,3345.2
+Maharashtra,1999,Cotton,201.47,6939.36,2416.16
+Maharashtra,1999,Sugarcane,181.81,7842.9,1581.21
+Maharashtra,1999,Grapes,430.31,9079.76,3751.69
+West Bengal,1999,Rice,372.94,9611.25,3062.42
+West Bengal,1999,Jute,349.77,7464.9,2677.53
+West Bengal,1999,Tea,221.12,7911.66,1823.25
+Karnataka,1999,Coffee,362.69,8220.59,3588.87
+Karnataka,1999,Ragi,270.93,7985.51,2162.92
+Karnataka,1999,Maize,71,9064.31,689.29
+Andhra Pradesh,1999,Rice,166.31,4958.12,1398.41
+Andhra Pradesh,1999,Chillies,209.15,5531.72,1213.05
+Andhra Pradesh,1999,Tobacco,467.6,7772.7,2928.23
+Haryana,1999,Wheat,458.44,8543.99,1238.72
+Haryana,1999,Rice,365.06,2913.6,4179.94
+Haryana,1999,Barley,535.48,7723.42,1382.39
+Gujarat,1999,Groundnut,286.81,2431.28,2331.27
+Gujarat,1999,Cotton,447.35,8636.9,1556.65
+Gujarat,1999,Cumin,190.93,5615.69,758.78
+Assam,1999,Tea,124.15,7579.05,774.02
+Assam,1999,Rice,127.55,5759.51,231.74
+Assam,1999,Mustard,188.21,8318.97,915.03
+Uttar Pradesh,2000,Wheat,66.17,5222.75,663.62
+Uttar Pradesh,2000,Sugarcane,226.86,4971.91,641.82
+Uttar Pradesh,2000,Rice,267.39,2789.17,2271.22
+Punjab,2000,Wheat,414.49,8834.17,3406.47
+Punjab,2000,Rice,170.48,9078.12,1264.51
+Punjab,2000,Maize,59.81,2763.07,309.81
+Madhya Pradesh,2000,Soybean,186.18,2093.17,1900.55
+Madhya Pradesh,2000,Wheat,162.52,3513.53,466.15
+Madhya Pradesh,2000,Pulses,448.94,9772.48,3232.76
+Maharashtra,2000,Cotton,197.52,2643.71,2485.44
+Maharashtra,2000,Sugarcane,189.76,8436.81,1601.52
+Maharashtra,2000,Grapes,432.26,5174.75,3725.16
+West Bengal,2000,Rice,361.47,2818.6,3094.61
+West Bengal,2000,Jute,348.98,7017.1,2737.02
+West Bengal,2000,Tea,214.66,1709.7,1891.09
+Karnataka,2000,Coffee,345.02,5068.76,3642.66
+Karnataka,2000,Ragi,263.29,2106.8,2160.72
+Karnataka,2000,Maize,67.78,6360.86,661.73
+Andhra Pradesh,2000,Rice,170.59,1095.03,1377.09
+Andhra Pradesh,2000,Chillies,205.6,4689.76,1194.14
+Andhra Pradesh,2000,Tobacco,460.52,6219.89,2926.43
+Haryana,2000,Wheat,460.51,7942.28,1267.42
+Haryana,2000,Rice,380.96,5457.12,4101.79
+Haryana,2000,Barley,531.69,4815.94,1361.48
+Gujarat,2000,Groundnut,277.25,7405.68,2401.64
+Gujarat,2000,Cotton,465.89,5837.46,1626.79
+Gujarat,2000,Cumin,192.75,8113.02,778.4
+Assam,2000,Tea,129.26,7978.98,760.81
+Assam,2000,Rice,125.93,2039.55,238.52
+Assam,2000,Mustard,189.88,2650.03,893.24
+Uttar Pradesh,2001,Wheat,66.38,2725.07,633.55
+Uttar Pradesh,2001,Sugarcane,226.85,8854.51,616.81
+Uttar Pradesh,2001,Rice,259.39,1572.96,2336.3
+Punjab,2001,Wheat,425.91,2666.74,3322.54
+Punjab,2001,Rice,175.19,8070.9,1283.68
+Punjab,2001,Maize,57.23,7737.96,312.49
+Madhya Pradesh,2001,Soybean,188.13,9831.84,1935.49
+Madhya Pradesh,2001,Wheat,155.69,9442.9,445.11
+Madhya Pradesh,2001,Pulses,461.12,5771.41,3273.79
+Maharashtra,2001,Cotton,188.27,8772.55,2571.41
+Maharashtra,2001,Sugarcane,196.31,1446.75,1554.03
+Maharashtra,2001,Grapes,421.18,7799.55,3643.8
+West Bengal,2001,Rice,348.17,1808.25,3227.07
+West Bengal,2001,Jute,336.94,3597.21,2655.26
+West Bengal,2001,Tea,207.88,8122.58,1878.46
+Karnataka,2001,Coffee,338.9,5208.01,3824.31
+Karnataka,2001,Ragi,257.64,9849.69,2055.09
+Karnataka,2001,Maize,67.65,6359.92,682.61
+Andhra Pradesh,2001,Rice,173.36,2612.67,1382.37
+Andhra Pradesh,2001,Chillies,201.12,6144.13,1165.33
+Andhra Pradesh,2001,Tobacco,466.75,9982.31,3060.64
+Haryana,2001,Wheat,445.69,8224.47,1268.98
+Haryana,2001,Rice,395.76,7341.9,3967.2
+Haryana,2001,Barley,544.94,8127.76,1303
+Gujarat,2001,Groundnut,278.06,5528.54,2413.14
+Gujarat,2001,Cotton,481.66,4643.6,1682.12
+Gujarat,2001,Cumin,196.54,4716.11,773.65
+Assam,2001,Tea,126.54,9270.58,748.16
+Assam,2001,Rice,125.25,4093.93,237.77
+Assam,2001,Mustard,186.99,2849.47,902.37
+Uttar Pradesh,2002,Wheat,64.77,4391.73,646.54
+Uttar Pradesh,2002,Sugarcane,231.68,8042.59,618.41
+Uttar Pradesh,2002,Rice,253.09,9143.81,2415.31
+Punjab,2002,Wheat,422.95,6863.46,3253.14
+Punjab,2002,Rice,178.27,5174,1337.1
+Punjab,2002,Maize,59.15,1544.16,311.59
+Madhya Pradesh,2002,Soybean,194.31,6615.53,1947.34
+Madhya Pradesh,2002,Wheat,153.73,8192.56,452.39
+Madhya Pradesh,2002,Pulses,465.91,2419.25,3308.02
+Maharashtra,2002,Cotton,186.35,7870.63,2451.07
+Maharashtra,2002,Sugarcane,196.17,9986.95,1485.39
+Maharashtra,2002,Grapes,407.75,9314.94,3654.83
+West Bengal,2002,Rice,334.21,5453.98,3088.93
+West Bengal,2002,Jute,349.12,2618.36,2688.48
+West Bengal,2002,Tea,202.62,3303.1,1873.13
+Karnataka,2002,Coffee,324.75,5543.61,3837.21
+Karnataka,2002,Ragi,260.07,9844.59,2079.27
+Karnataka,2002,Maize,67.2,5354.97,663.46
+Andhra Pradesh,2002,Rice,172.31,9685.77,1382.7
+Andhra Pradesh,2002,Chillies,202.99,2212.46,1176.45
+Andhra Pradesh,2002,Tobacco,447.66,8221.06,2807.67
+Haryana,2002,Wheat,441.99,8456,1216.09
+Haryana,2002,Rice,384.19,8660.51,3820.04
+Haryana,2002,Barley,534.05,7752.49,1353.09
+Gujarat,2002,Groundnut,276.6,5207.17,2505.23
+Gujarat,2002,Cotton,466.62,3713.74,1706.51
+Gujarat,2002,Cumin,190.87,3177.34,758.06
+Assam,2002,Tea,132.55,8556.83,762.59
+Assam,2002,Rice,121.43,9122.47,234.23
+Assam,2002,Mustard,186.02,7241.29,946.06
+Uttar Pradesh,2003,Wheat,67.02,5278.19,672.46
+Uttar Pradesh,2003,Sugarcane,234.73,3915.89,616.1
+Uttar Pradesh,2003,Rice,247.68,8412.39,2482.38
+Punjab,2003,Wheat,437.02,2114.31,3196.53
+Punjab,2003,Rice,179.14,2219.54,1361.83
+Punjab,2003,Maize,59.52,9775.4,322.01
+Madhya Pradesh,2003,Soybean,203.13,3492.51,1963.45
+Madhya Pradesh,2003,Wheat,146.84,3928.31,438.52
+Madhya Pradesh,2003,Pulses,452.8,8712.09,3471.82
+Maharashtra,2003,Cotton,195.24,1063.65,2561.51
+Maharashtra,2003,Sugarcane,192.71,4918.82,1512.9
+Maharashtra,2003,Grapes,421.38,1933.91,3654.88
+West Bengal,2003,Rice,318.36,1222.95,3047.29
+West Bengal,2003,Jute,345.79,5085.72,2781.67
+West Bengal,2003,Tea,202.1,5092.47,1951.38
+Karnataka,2003,Coffee,316.23,7087.11,3707.62
+Karnataka,2003,Ragi,248.26,5305.6,1999.13
+Karnataka,2003,Maize,64.56,9797.86,675.8
+Andhra Pradesh,2003,Rice,165.34,6830.94,1445.91
+Andhra Pradesh,2003,Chillies,194.57,5588.27,1198.69
+Andhra Pradesh,2003,Tobacco,453.79,3833.17,2888.15
+Haryana,2003,Wheat,436.99,1072.44,1209.44
+Haryana,2003,Rice,389.82,4548.92,3759.64
+Haryana,2003,Barley,533.37,1175.32,1419.63
+Gujarat,2003,Groundnut,286.18,8256.38,2446.48
+Gujarat,2003,Cotton,451.12,4661.08,1708
+Gujarat,2003,Cumin,181.6,6497.05,742.04
+Assam,2003,Tea,137.49,1478.95,777.52
+Assam,2003,Rice,127.1,7885.7,235.1
+Assam,2003,Mustard,184.44,5760.51,939.73
+Uttar Pradesh,2004,Wheat,69.71,6725.23,663.89
+Uttar Pradesh,2004,Sugarcane,226.07,7126.42,598.32
+Uttar Pradesh,2004,Rice,235.53,2305.87,2558.5
+Punjab,2004,Wheat,456.57,3529.62,3274.24
+Punjab,2004,Rice,187.9,2295.16,1318.02
+Punjab,2004,Maize,60.69,8043.08,329.22
+Madhya Pradesh,2004,Soybean,208.77,4403.94,2046.36
+Madhya Pradesh,2004,Wheat,151.34,5233.71,442.14
+Madhya Pradesh,2004,Pulses,461.92,5392.69,3377.92
+Maharashtra,2004,Cotton,201.15,1183.52,2610.53
+Maharashtra,2004,Sugarcane,188.21,7352.44,1551.03
+Maharashtra,2004,Grapes,410.66,3517.76,3692.18
+West Bengal,2004,Rice,323.82,5903.04,3156.6
+West Bengal,2004,Jute,358.77,6811.83,2666.57
+West Bengal,2004,Tea,205.04,9320.46,2026.16
+Karnataka,2004,Coffee,323.13,3866.95,3546.77
+Karnataka,2004,Ragi,240.92,4000.32,2086.57
+Karnataka,2004,Maize,64.64,2604.75,645.65
+Andhra Pradesh,2004,Rice,172.98,7083.46,1491.11
+Andhra Pradesh,2004,Chillies,196.42,8110.54,1193.11
+Andhra Pradesh,2004,Tobacco,440.53,6223.5,2846.69
+Haryana,2004,Wheat,426.09,1469.91,1183.26
+Haryana,2004,Rice,390.75,3191.26,3780.56
+Haryana,2004,Barley,541.3,7006.69,1472.53
+Gujarat,2004,Groundnut,290.55,2537.86,2414.29
+Gujarat,2004,Cotton,469.36,2407.81,1687.85
+Gujarat,2004,Cumin,176.91,8816.25,769.36
+Assam,2004,Tea,138.43,5109.55,746.46
+Assam,2004,Rice,130.53,4648.47,244.27
+Assam,2004,Mustard,189.11,4520.81,919.31
+Uttar Pradesh,2005,Wheat,66.75,2395.39,644.27
+Uttar Pradesh,2005,Sugarcane,237.36,1946.43,585.7
+Uttar Pradesh,2005,Rice,230.83,2008.99,2486.26
+Punjab,2005,Wheat,464.79,1458.05,3343.77
+Punjab,2005,Rice,180.32,2160.64,1253.74
+Punjab,2005,Maize,59.27,6627.64,336.54
+Madhya Pradesh,2005,Soybean,211.82,7967.63,2088.34
+Madhya Pradesh,2005,Wheat,149.55,7821.85,426.62
+Madhya Pradesh,2005,Pulses,442.47,5978.43,3545.31
+Maharashtra,2005,Cotton,204.85,4866.9,2591.24
+Maharashtra,2005,Sugarcane,179.07,8857.4,1500.79
+Maharashtra,2005,Grapes,418.02,6872.3,3706.73
+West Bengal,2005,Rice,309.32,8972.2,3269.94
+West Bengal,2005,Jute,354.97,9581,2625.15
+West Bengal,2005,Tea,209.93,1819.65,2100.03
+Karnataka,2005,Coffee,312.47,7664.09,3649.88
+Karnataka,2005,Ragi,231.31,2662.37,2179.4
+Karnataka,2005,Maize,66.54,5109.22,643.03
+Andhra Pradesh,2005,Rice,168.65,7777.64,1563
+Andhra Pradesh,2005,Chillies,205.47,7594.33,1190.03
+Andhra Pradesh,2005,Tobacco,450.4,9650.45,2619.89
+Haryana,2005,Wheat,409.06,4555.38,1222.47
+Haryana,2005,Rice,396.51,5973.99,3628.35
+Haryana,2005,Barley,562.43,2194.38,1485.04
+Gujarat,2005,Groundnut,294.39,9095.17,2381.64
+Gujarat,2005,Cotton,453.24,6332.22,1606.95
+Gujarat,2005,Cumin,169.81,6585.5,764.95
+Assam,2005,Tea,142,5177.44,750.81
+Assam,2005,Rice,136.46,9129.79,255.55
+Assam,2005,Mustard,191.94,1819.16,880.1
+Uttar Pradesh,2006,Wheat,67.94,7142.39,664.86
+Uttar Pradesh,2006,Sugarcane,240.04,7055.88,600.78
+Uttar Pradesh,2006,Rice,225.57,4985.29,2590.95
+Punjab,2006,Wheat,473.01,6093.24,3360
+Punjab,2006,Rice,178.3,1648.77,1230.09
+Punjab,2006,Maize,60.03,1074.36,329.99
+Madhya Pradesh,2006,Soybean,217.12,1331.02,1997.53
+Madhya Pradesh,2006,Wheat,151.26,8766.36,446.44
+Madhya Pradesh,2006,Pulses,440.81,8944.94,3427.99
+Maharashtra,2006,Cotton,214.76,4069.07,2641.77
+Maharashtra,2006,Sugarcane,170.82,2113.25,1497.19
+Maharashtra,2006,Grapes,416.21,8493.2,3728.03
+West Bengal,2006,Rice,323.3,7249.39,3274.44
+West Bengal,2006,Jute,351.32,6957.79,2727.1
+West Bengal,2006,Tea,216.28,5700.81,2160.12
+Karnataka,2006,Coffee,301.04,6109.53,3742.37
+Karnataka,2006,Ragi,234.87,9848.54,2189.15
+Karnataka,2006,Maize,64.67,3451.37,644.27
+Andhra Pradesh,2006,Rice,167.25,5184.09,1490.41
+Andhra Pradesh,2006,Chillies,210.42,7670.43,1230.57
+Andhra Pradesh,2006,Tobacco,434.69,3111.76,2837.92
+Haryana,2006,Wheat,396.38,8502.96,1239.83
+Haryana,2006,Rice,395.05,4030.57,3600.11
+Haryana,2006,Barley,573.82,5643.02,1429.31
+Gujarat,2006,Groundnut,281.72,1141.4,2303.91
+Gujarat,2006,Cotton,431.71,5377.62,1611.06
+Gujarat,2006,Cumin,175.24,7133.43,794.64
+Assam,2006,Tea,142.33,3403.45,782.02
+Assam,2006,Rice,136.24,6057.66,258.45
+Assam,2006,Mustard,192.78,3402.54,851.3
+Uttar Pradesh,2007,Wheat,64.65,6604.42,669.12
+Uttar Pradesh,2007,Sugarcane,238.17,4881.62,592.36
+Uttar Pradesh,2007,Rice,236.77,1237.34,2679.4
+Punjab,2007,Wheat,453.31,6309.17,3313.52
+Punjab,2007,Rice,185.48,3230.15,1266.27
+Punjab,2007,Maize,61.03,5030.85,314.93
+Madhya Pradesh,2007,Soybean,216.71,1965.76,1974.35
+Madhya Pradesh,2007,Wheat,152.37,1548.19,433.29
+Madhya Pradesh,2007,Pulses,430.54,2746.12,3550.47
+Maharashtra,2007,Cotton,204.53,4736.27,2653.26
+Maharashtra,2007,Sugarcane,175.91,5436.07,1567.46
+Maharashtra,2007,Grapes,433.2,8365.62,3904.38
+West Bengal,2007,Rice,324.13,1182.02,3317.65
+West Bengal,2007,Jute,359.04,2448.44,2672.03
+West Bengal,2007,Tea,225.07,5861.88,2173.51
+Karnataka,2007,Coffee,304.6,9321.59,3574.94
+Karnataka,2007,Ragi,243.61,5078.38,2089.78
+Karnataka,2007,Maize,64.51,2995.84,631.43
+Andhra Pradesh,2007,Rice,164.58,4006.39,1478.24
+Andhra Pradesh,2007,Chillies,207.35,1584.91,1191.47
+Andhra Pradesh,2007,Tobacco,444.37,8981.28,2814.23
+Haryana,2007,Wheat,391.93,8960.21,1301.7
+Haryana,2007,Rice,396.92,2223.39,3429.48
+Haryana,2007,Barley,589.14,9879.04,1428.46
+Gujarat,2007,Groundnut,290.22,1161.39,2205.19
+Gujarat,2007,Cotton,442.74,3556.32,1653.78
+Gujarat,2007,Cumin,182.73,2212.79,798.91
+Assam,2007,Tea,148.65,4764.29,751.22
+Assam,2007,Rice,138.67,3637.58,258.52
+Assam,2007,Mustard,188.45,1932.35,836.99
+Uttar Pradesh,2008,Wheat,64.21,4332.12,647.24
+Uttar Pradesh,2008,Sugarcane,239.18,4615.02,602.13
+Uttar Pradesh,2008,Rice,233.32,6042.06,2604.88
+Punjab,2008,Wheat,457.63,8292.13,3158.17
+Punjab,2008,Rice,193.58,5191.78,1204.98
+Punjab,2008,Maize,63.65,3949.02,330.57
+Madhya Pradesh,2008,Soybean,214.24,6888.29,2007.21
+Madhya Pradesh,2008,Wheat,157.12,6693.32,421.54
+Madhya Pradesh,2008,Pulses,445.57,2647.61,3565.83
+Maharashtra,2008,Cotton,211.33,5593.64,2653.18
+Maharashtra,2008,Sugarcane,175.84,4584.5,1584.21
+Maharashtra,2008,Grapes,427.47,2943,3770.52
+West Bengal,2008,Rice,327.97,9718.96,3473.38
+West Bengal,2008,Jute,373.19,6188.56,2696.75
+West Bengal,2008,Tea,224.56,6150.13,2130.27
+Karnataka,2008,Coffee,310.18,9466.95,3700.09
+Karnataka,2008,Ragi,245.13,7487.61,2016.31
+Karnataka,2008,Maize,62.97,4150.62,628.95
+Andhra Pradesh,2008,Rice,166.91,4900.93,1542.48
+Andhra Pradesh,2008,Chillies,197.96,9178.12,1241.57
+Andhra Pradesh,2008,Tobacco,433.18,5024.34,2852.85
+Haryana,2008,Wheat,384.19,2468.85,1292.51
+Haryana,2008,Rice,411.18,5486.4,3572.73
+Haryana,2008,Barley,586.51,4275.19,1415.34
+Gujarat,2008,Groundnut,280.56,7323.7,2292.02
+Gujarat,2008,Cotton,459.57,7096.95,1649.3
+Gujarat,2008,Cumin,180.39,9312.32,787.88
+Assam,2008,Tea,155.51,8191.61,734.09
+Assam,2008,Rice,139.75,3453.76,251.71
+Assam,2008,Mustard,187.11,9242.99,871.92
+Uttar Pradesh,2009,Wheat,63.85,3639.76,672.09
+Uttar Pradesh,2009,Sugarcane,229.35,9249.72,630.37
+Uttar Pradesh,2009,Rice,232.95,9386.64,2583.29
+Punjab,2009,Wheat,447.7,7632.72,3222.93
+Punjab,2009,Rice,196.57,3744.26,1159.67
+Punjab,2009,Maize,65.36,5826.59,343.48
+Madhya Pradesh,2009,Soybean,220.05,9789.2,2063.33
+Madhya Pradesh,2009,Wheat,154.94,9310.48,436.6
+Madhya Pradesh,2009,Pulses,436.91,8609.56,3730.25
+Maharashtra,2009,Cotton,201.39,3233.8,2712.36
+Maharashtra,2009,Sugarcane,179.04,4407.75,1565.33
+Maharashtra,2009,Grapes,416.48,2004.7,3657.2
+West Bengal,2009,Rice,344.08,6975.32,3486.43
+West Bengal,2009,Jute,391.04,2814.95,2792.11
+West Bengal,2009,Tea,235.35,1305.12,2175.3
+Karnataka,2009,Coffee,303.6,7295,3730.3
+Karnataka,2009,Ragi,254.47,1619.23,2068.8
+Karnataka,2009,Maize,65.3,6188.03,644.11
+Andhra Pradesh,2009,Rice,172.25,7577.2,1607.78
+Andhra Pradesh,2009,Chillies,204.14,2178.57,1287.5
+Andhra Pradesh,2009,Tobacco,424.37,9813.78,2830.72
+Haryana,2009,Wheat,374.15,8408.7,1246.91
+Haryana,2009,Rice,395.08,8913.51,3429.23
+Haryana,2009,Barley,577.29,1495.83,1424.49
+Gujarat,2009,Groundnut,276.88,2185.92,2273.67
+Gujarat,2009,Cotton,469.49,1875.49,1647.32
+Gujarat,2009,Cumin,180.35,3440.05,819.99
+Assam,2009,Tea,163.13,6568.03,718.08
+Assam,2009,Rice,144.96,6404.42,260.26
+Assam,2009,Mustard,194.77,1941,870.28
+Uttar Pradesh,2010,Wheat,65.17,3403.17,661.42
+Uttar Pradesh,2010,Sugarcane,220.14,5168.93,609.18
+Uttar Pradesh,2010,Rice,233.45,1425.34,2473.77
+Punjab,2010,Wheat,443.98,7269.62,3303.17
+Punjab,2010,Rice,195.09,9147.63,1151.74
+Punjab,2010,Maize,67.1,8145.79,347.5
+Madhya Pradesh,2010,Soybean,228.84,3462.51,2004.6
+Madhya Pradesh,2010,Wheat,149.02,3941.87,430.05
+Madhya Pradesh,2010,Pulses,450.71,5736.42,3671.97
+Maharashtra,2010,Cotton,206.15,6740.52,2677.83
+Maharashtra,2010,Sugarcane,181.28,8935.28,1594.01
+Maharashtra,2010,Grapes,413.73,5405.24,3582.59
+West Bengal,2010,Rice,339.36,8578.43,3628.88
+West Bengal,2010,Jute,389.61,1544.95,2769.51
+West Bengal,2010,Tea,229.38,5415.1,2094.39
+Karnataka,2010,Coffee,313.27,7718.54,3580.32
+Karnataka,2010,Ragi,260.18,7170.08,1994.89
+Karnataka,2010,Maize,65.65,1669.21,643.74
+Andhra Pradesh,2010,Rice,179.88,2733.52,1595.65
+Andhra Pradesh,2010,Chillies,200.68,6641.71,1318.71
+Andhra Pradesh,2010,Tobacco,423.94,3715.78,2783.34
+Haryana,2010,Wheat,388.83,6241.82,1192.87
+Haryana,2010,Rice,398.09,5641.66,3474.54
+Haryana,2010,Barley,586.24,6178.79,1411.34
+Gujarat,2010,Groundnut,279.46,3869.52,2287.75
+Gujarat,2010,Cotton,473.71,4083.61,1700.59
+Gujarat,2010,Cumin,176.83,8197.99,815.17
+Assam,2010,Tea,162.02,8584.02,752.78
+Assam,2010,Rice,145.21,2949.44,267.49
+Assam,2010,Mustard,194.74,1711.53,873.07
+Uttar Pradesh,2011,Wheat,64.28,2319.39,663.64
+Uttar Pradesh,2011,Sugarcane,211.11,2790.85,616.03
+Uttar Pradesh,2011,Rice,231.28,2936.28,2588.41
+Punjab,2011,Wheat,422.61,1157.23,3426.86
+Punjab,2011,Rice,197.76,9634.18,1169.72
+Punjab,2011,Maize,68.23,7748.84,349.99
+Madhya Pradesh,2011,Soybean,219.83,2492.71,1953.59
+Madhya Pradesh,2011,Wheat,155.89,3514.22,427.98
+Madhya Pradesh,2011,Pulses,439.59,1297.02,3628.74
+Maharashtra,2011,Cotton,196.07,7278.39,2682.76
+Maharashtra,2011,Sugarcane,186.52,4638.23,1524.79
+Maharashtra,2011,Grapes,399.27,9591.43,3618.27
+West Bengal,2011,Rice,335.87,3929.61,3803.14
+West Bengal,2011,Jute,378.52,9693.52,2759.17
+West Bengal,2011,Tea,240.28,3165.77,2158.3
+Karnataka,2011,Coffee,298.54,6895.18,3701.41
+Karnataka,2011,Ragi,272.88,9624.7,2004.95
+Karnataka,2011,Maize,68.87,7018.45,657.86
+Andhra Pradesh,2011,Rice,171.87,8821.71,1619.4
+Andhra Pradesh,2011,Chillies,207.3,7515.6,1375.96
+Andhra Pradesh,2011,Tobacco,413.58,6055.88,2599.71
+Haryana,2011,Wheat,382.86,7096.33,1232.36
+Haryana,2011,Rice,385.4,5824.1,3508.57
+Haryana,2011,Barley,601.46,6616.32,1416.28
+Gujarat,2011,Groundnut,280.83,6795.11,2307.1
+Gujarat,2011,Cotton,452.33,4467.5,1686.95
+Gujarat,2011,Cumin,176.48,8877.73,832.56
+Assam,2011,Tea,155.97,2876.85,767.54
+Assam,2011,Rice,138.88,6531.3,259.33
+Assam,2011,Mustard,197.72,4784.47,860.77
+Uttar Pradesh,2012,Wheat,67.25,5060.62,634.45
+Uttar Pradesh,2012,Sugarcane,212.22,4893.18,598.72
+Uttar Pradesh,2012,Rice,240.03,6093.48,2633.62
+Punjab,2012,Wheat,403.65,6591.26,3541.54
+Punjab,2012,Rice,192.31,4341,1130.25
+Punjab,2012,Maize,66.04,3600.9,336.21
+Madhya Pradesh,2012,Soybean,215.1,3159.82,1994.07
+Madhya Pradesh,2012,Wheat,161.68,5002.88,444.91
+Madhya Pradesh,2012,Pulses,458.43,4567.04,3766.15
+Maharashtra,2012,Cotton,199.41,1863.9,2695.25
+Maharashtra,2012,Sugarcane,195.61,1654.19,1512.13
+Maharashtra,2012,Grapes,418.05,1678.18,3577.17
+West Bengal,2012,Rice,343.59,7205.6,3881.32
+West Bengal,2012,Jute,373.45,8037.15,2869.13
+West Bengal,2012,Tea,250.66,6346.61,2065.24
+Karnataka,2012,Coffee,294.07,4693.42,3566.13
+Karnataka,2012,Ragi,284.75,7154.42,1951.31
+Karnataka,2012,Maize,71.66,3034.72,665.82
+Andhra Pradesh,2012,Rice,163.66,6216.62,1650.86
+Andhra Pradesh,2012,Chillies,200.74,2294.32,1441.4
+Andhra Pradesh,2012,Tobacco,427.98,2713.49,2567.98
+Haryana,2012,Wheat,375.66,9621.05,1275.43
+Haryana,2012,Rice,376.77,1558.09,3651.66
+Haryana,2012,Barley,617.71,9909.68,1479.03
+Gujarat,2012,Groundnut,269.06,2908.98,2211.55
+Gujarat,2012,Cotton,435.47,9349.69,1753.8
+Gujarat,2012,Cumin,180.76,8669.37,851.05
+Assam,2012,Tea,161.13,6867.34,742.26
+Assam,2012,Rice,133.48,1861.16,251.99
+Assam,2012,Mustard,189.87,7209.25,826.17
+Uttar Pradesh,2013,Wheat,68.71,8114.86,637.15
+Uttar Pradesh,2013,Sugarcane,219.2,7921.06,584.79
+Uttar Pradesh,2013,Rice,229.06,7638.32,2740.43
+Punjab,2013,Wheat,416.17,9685.62,3566.11
+Punjab,2013,Rice,190.21,6231.62,1089.15
+Punjab,2013,Maize,66.19,5141.63,335.77
+Madhya Pradesh,2013,Soybean,218.31,6384.95,2019.18
+Madhya Pradesh,2013,Wheat,162.48,2807.86,461.81
+Madhya Pradesh,2013,Pulses,444.37,3916.25,3602.2
+Maharashtra,2013,Cotton,201.9,7478.33,2789.45
+Maharashtra,2013,Sugarcane,190.63,7536.09,1506.45
+Maharashtra,2013,Grapes,426.82,2829.68,3625.42
+West Bengal,2013,Rice,354.57,5941.66,3925.03
+West Bengal,2013,Jute,363.88,5149.84,2872.71
+West Bengal,2013,Tea,253.23,3679.61,2017.56
+Karnataka,2013,Coffee,292.78,8460.72,3388.79
+Karnataka,2013,Ragi,283.44,3779.72,1963.85
+Karnataka,2013,Maize,72.83,3061.56,638.61
+Andhra Pradesh,2013,Rice,164.19,9979.99,1720.81
+Andhra Pradesh,2013,Chillies,204.35,7545.7,1507.06
+Andhra Pradesh,2013,Tobacco,412.48,6422.31,2602.98
+Haryana,2013,Wheat,377.53,2203.99,1305.99
+Haryana,2013,Rice,387.83,1097.39,3780.87
+Haryana,2013,Barley,590.27,5939.95,1419.97
+Gujarat,2013,Groundnut,271.1,6390.74,2214.34
+Gujarat,2013,Cotton,432.49,6591.02,1714.31
+Gujarat,2013,Cumin,185.09,6743.1,816.74
+Assam,2013,Tea,163.1,6888.79,743.87
+Assam,2013,Rice,127.45,9592.63,246.66
+Assam,2013,Mustard,182.27,3746.82,810.33
+Uttar Pradesh,2014,Wheat,70.07,9911.21,623.86
+Uttar Pradesh,2014,Sugarcane,208.55,9179.45,599.56
+Uttar Pradesh,2014,Rice,237.37,7438.76,2667.99
+Punjab,2014,Wheat,404.4,2015.81,3544.3
+Punjab,2014,Rice,191.93,6141.24,1057.83
+Punjab,2014,Maize,64.79,6256.71,346.22
+Madhya Pradesh,2014,Soybean,213.11,2266.3,1997.98
+Madhya Pradesh,2014,Wheat,161.77,2853.41,452.68
+Madhya Pradesh,2014,Pulses,423.53,6606.69,3597.65
+Maharashtra,2014,Cotton,199.36,6239.95,2765.07
+Maharashtra,2014,Sugarcane,199.65,3373.01,1444.94
+Maharashtra,2014,Grapes,438.79,5160.61,3741.81
+West Bengal,2014,Rice,358.57,7086.08,3860.57
+West Bengal,2014,Jute,356.44,6284.98,2994.64
+West Bengal,2014,Tea,251.43,1491,1999.44
+Karnataka,2014,Coffee,307.29,5350.33,3511.33
+Karnataka,2014,Ragi,282.46,3634.43,1879.48
+Karnataka,2014,Maize,70.88,6565.59,630.82
+Andhra Pradesh,2014,Rice,166.38,6305.72,1699.6
+Andhra Pradesh,2014,Chillies,196.91,4728.3,1474.67
+Andhra Pradesh,2014,Tobacco,392.3,9520.43,2747.76
+Haryana,2014,Wheat,365.95,5442.02,1270.18
+Haryana,2014,Rice,402.61,8216.26,3914.03
+Haryana,2014,Barley,604.27,4261.16,1405.59
+Gujarat,2014,Groundnut,273.4,1623.5,2210.97
+Gujarat,2014,Cotton,443.98,2147.6,1766.3
+Gujarat,2014,Cumin,179.21,9026.87,814.2
+Assam,2014,Tea,170.93,8084.02,761.11
+Assam,2014,Rice,129.56,9480.41,244.09
+Assam,2014,Mustard,190.56,1115.46,777.09
+Uttar Pradesh,2015,Wheat,71.05,9515.44,645.82
+Uttar Pradesh,2015,Sugarcane,205.96,6587.4,622.24
+Uttar Pradesh,2015,Rice,249.07,8516.15,2544.45
+Punjab,2015,Wheat,384.43,5175.17,3715.13
+Punjab,2015,Rice,184.4,2762.76,1066.08
+Punjab,2015,Maize,62.05,6168.26,332.7
+Madhya Pradesh,2015,Soybean,204.3,3626.48,1913.89
+Madhya Pradesh,2015,Wheat,162.08,9719.51,459.68
+Madhya Pradesh,2015,Pulses,431.21,4399.09,3702.56
+Maharashtra,2015,Cotton,189.7,3844.55,2826.18
+Maharashtra,2015,Sugarcane,192.59,3652.76,1377.57
+Maharashtra,2015,Grapes,459.71,4576,3908.25
+West Bengal,2015,Rice,350.9,3835.9,3880.39
+West Bengal,2015,Jute,366.13,9725.68,3049.2
+West Bengal,2015,Tea,241.66,8939.57,1970.18
+Karnataka,2015,Coffee,306.53,5397.29,3391.02
+Karnataka,2015,Ragi,289.91,3020.34,1869.31
+Karnataka,2015,Maize,71.04,4728.73,624.32
+Andhra Pradesh,2015,Rice,163.46,2675.55,1708.67
+Andhra Pradesh,2015,Chillies,205.27,9364.93,1543.88
+Andhra Pradesh,2015,Tobacco,398.64,7410.74,2661.93
+Haryana,2015,Wheat,366.22,6278.14,1307.81
+Haryana,2015,Rice,417.11,4233.49,4018.63
+Haryana,2015,Barley,604.63,8915.01,1456.41
+Gujarat,2015,Groundnut,267.32,6267.64,2118.92
+Gujarat,2015,Cotton,461.02,3434.68,1749.3
+Gujarat,2015,Cumin,182.8,8894.62,815.62
+Assam,2015,Tea,164.03,1075.1,740.86
+Assam,2015,Rice,123.8,8335.7,236.59
+Assam,2015,Mustard,189.7,7553.46,775.28
+Uttar Pradesh,2016,Wheat,74.49,3113.52,632.02
+Uttar Pradesh,2016,Sugarcane,207.1,7478.39,606.01
+Uttar Pradesh,2016,Rice,258.83,8447.73,2431.1
+Punjab,2016,Wheat,386.37,4155.34,3862.97
+Punjab,2016,Rice,189.03,8094.09,1021.69
+Punjab,2016,Maize,59.92,4046.89,339.37
+Madhya Pradesh,2016,Soybean,212.9,3389.24,2000.06
+Madhya Pradesh,2016,Wheat,158.61,4102.47,454.93
+Madhya Pradesh,2016,Pulses,430.94,8632.3,3581.65
+Maharashtra,2016,Cotton,190.57,2871.81,2808.87
+Maharashtra,2016,Sugarcane,186.28,8181.46,1405.79
+Maharashtra,2016,Grapes,466.5,1526.45,4031.98
+West Bengal,2016,Rice,345.13,1849.11,4045.49
+West Bengal,2016,Jute,354.14,4702.69,3121.02
+West Bengal,2016,Tea,250.37,2073.33,2042.87
+Karnataka,2016,Coffee,310.61,6082.16,3348.77
+Karnataka,2016,Ragi,286.47,4684.53,1874.22
+Karnataka,2016,Maize,71.4,7801.5,613.99
+Andhra Pradesh,2016,Rice,162.38,6477.84,1638.46
+Andhra Pradesh,2016,Chillies,202.68,9213.37,1601.12
+Andhra Pradesh,2016,Tobacco,388.35,3534.85,2644.26
+Haryana,2016,Wheat,362.46,5119.11,1338.83
+Haryana,2016,Rice,426.43,8903.98,4040.24
+Haryana,2016,Barley,622.15,2718.52,1517.59
+Gujarat,2016,Groundnut,255.21,2479.23,2027.19
+Gujarat,2016,Cotton,449.32,2416.65,1720.72
+Gujarat,2016,Cumin,180.86,7269.4,802.71
+Assam,2016,Tea,161.81,5615.49,715.1
+Assam,2016,Rice,121.51,1613.55,229.08
+Assam,2016,Mustard,190.95,7436.5,781.41
+Uttar Pradesh,2017,Wheat,76.14,5316.15,627.65
+Uttar Pradesh,2017,Sugarcane,213.76,9488.99,582.77
+Uttar Pradesh,2017,Rice,247.95,9821.71,2486.02
+Punjab,2017,Wheat,399.49,4791.32,3972.84
+Punjab,2017,Rice,193.91,9279.55,1068.7
+Punjab,2017,Maize,57.25,9823.03,343.05
+Madhya Pradesh,2017,Soybean,205.95,8829.21,2068.95
+Madhya Pradesh,2017,Wheat,162.3,3085.14,449.83
+Madhya Pradesh,2017,Pulses,433.9,8832.22,3758.96
+Maharashtra,2017,Cotton,197.87,4231.88,2940.89
+Maharashtra,2017,Sugarcane,188.74,9055.94,1405.92
+Maharashtra,2017,Grapes,482.31,6353.44,4074.68
+West Bengal,2017,Rice,332.51,9172.95,3980.33
+West Bengal,2017,Jute,345.06,6301.76,2985.61
+West Bengal,2017,Tea,250.59,8962.09,2071.83
+Karnataka,2017,Coffee,312.07,2190.51,3257.01
+Karnataka,2017,Ragi,280.32,5397.43,1932.65
+Karnataka,2017,Maize,72.52,9588.93,643.57
+Andhra Pradesh,2017,Rice,156.07,7315.47,1638.03
+Andhra Pradesh,2017,Chillies,209.76,3556.87,1577.56
+Andhra Pradesh,2017,Tobacco,380.63,8236.57,2497.66
+Haryana,2017,Wheat,375.88,9609.18,1273.59
+Haryana,2017,Rice,433.4,7383.71,4153.28
+Haryana,2017,Barley,611.21,4881.96,1590.39
+Gujarat,2017,Groundnut,254.93,2637.54,2113.4
+Gujarat,2017,Cotton,436.48,6134.25,1643.74
+Gujarat,2017,Cumin,188.25,1057.59,806.99
+Assam,2017,Tea,162.08,4285.3,718.21
+Assam,2017,Rice,124.14,7440.79,233.45
+Assam,2017,Mustard,184.27,7369.82,766.66
